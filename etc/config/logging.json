@@ -1,0 +1,39 @@
+{
+    "version": 1,
+    "disable_existing_loggers": false,
+    "formatters" : {
+        "verbose": {
+            "format": "%(asctime)s %(levelname)s %(module)s %(message)s"
+        }
+    },
+    "handlers": {
+        "file":{
+            "class": "logging.handlers.TimedRotatingFileHandler",
+            "when": "midnight",
+            "filename": "etc/logs/log.log",
+            "formatter": "verbose"
+        },
+        "email":{
+            "class":"logging.handlers.SMTPHandler",
+            "mailhost": ["irumble.com", 465],
+            "credentials": ["pattyiswrong@irumble.com", "MPeasthtu1980"],
+            "fromaddr": "cyclops@irumble.com",
+            "toaddrs": "therumbler@gmail.com",
+            "subject": "error log from cyclops"
+        }
+    },
+    "loggers" : {
+        "main": {
+            "handlers": ["file"], 
+            "level": "INFO"
+        },
+        "email" :{
+            "handlers":["email"],
+            "level": "ERROR"
+        }
+    },
+    "root": {
+        "handlers": ["file"],
+        "level": "DEBUG"
+    }
+}
