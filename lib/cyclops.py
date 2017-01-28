@@ -2,6 +2,8 @@ import logging
 import logging.config
 import json
 import os
+from auth import Auth
+from game import Game
 from instagram import Instagram
 from database import Database
 
@@ -51,11 +53,55 @@ class Cyclops():
 
         return data
 
+    def create_fake_user(self, username):
+        user_media = self.instagram.get_user_media(username)
+        print user_media.keys()
+        if len(user_media["items"]) == 0:
+            print "no items"
+            return False
+
+        user = user_media["items"][0]["user"]
+        data = {
+            "access_token": "%s.abc123" % user["id"],
+            "identifier": user["id"],
+            "user" : {
+                "username": user["username"],
+                "bio": "", 
+                "website": "", 
+                "profile_picture": user["profile_picture"], 
+                "full_name": user["full_name"], 
+                "id": user["id"]
+            }
+        }
+        
+        self.db.save("users", data, identifier = data["identifier"])
+        #print json.dumps(user_media, indent = 2)
+
+    def get_status(self, game_id, user_token):
+        """returns the status from the perspective of a particular user
+        """
+
+        auth = Auth()
+        token = auth.check_token(user_token)
+        if not token:
+            #no token exists
+            return {
+                "error": "invalid user_token"
+            }
+
+        game = self.db.load("game", game_id)
+        
+        if not game:
+            return {
+                "error": "invalid game id"
+            }
+
+        user_identifier = token["identifier"]
+
 def main():
     os.chdir("..")
     cyclops = Cyclops()
+    #cyclops.create_fake_user("anotherexcuse")
 
 if __name__ == '__main__':
     main()
-
-

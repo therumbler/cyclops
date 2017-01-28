@@ -555,3 +555,183 @@ INFO 2017-01-25 12:42:25,576 cyclops info
 2017-01-28 11:14:00,112 ERROR cyclops error
 2017-01-28 11:14:00,117 WARNING _internal  * Debugger is active!
 2017-01-28 11:14:00,126 INFO _internal  * Debugger pin code: 296-103-283
+2017-01-28 14:32:05,860 INFO _internal  * Detected change in '/Users/benji/Documents/development/code/cyclops/lib/database.py', reloading
+2017-01-28 14:32:05,871 INFO _internal  * Restarting with stat
+2017-01-28 14:32:05,974 DEBUG cyclops debug
+2017-01-28 14:32:05,974 INFO cyclops info
+2017-01-28 14:32:05,975 ERROR cyclops error
+2017-01-28 14:32:05,982 WARNING _internal  * Debugger is active!
+2017-01-28 14:32:05,995 INFO _internal  * Debugger pin code: 296-103-283
+2017-01-28 14:32:30,135 INFO _internal  * Detected change in '/Users/benji/Documents/development/code/cyclops/lib/database.py', reloading
+2017-01-28 14:32:30,145 INFO _internal  * Restarting with stat
+2017-01-28 14:32:30,239 DEBUG cyclops debug
+2017-01-28 14:32:30,239 INFO cyclops info
+2017-01-28 14:32:30,239 ERROR cyclops error
+2017-01-28 14:32:30,246 WARNING _internal  * Debugger is active!
+2017-01-28 14:32:30,257 INFO _internal  * Debugger pin code: 296-103-283
+2017-01-28 14:32:34,280 INFO _internal  * Detected change in '/Users/benji/Documents/development/code/cyclops/lib/database.py', reloading
+2017-01-28 14:32:34,292 INFO _internal  * Restarting with stat
+2017-01-28 14:32:34,384 DEBUG cyclops debug
+2017-01-28 14:32:34,384 INFO cyclops info
+2017-01-28 14:32:34,384 ERROR cyclops error
+2017-01-28 14:32:34,389 WARNING _internal  * Debugger is active!
+2017-01-28 14:32:34,399 INFO _internal  * Debugger pin code: 296-103-283
+2017-01-28 14:32:40,440 INFO _internal  * Detected change in '/Users/benji/Documents/development/code/cyclops/lib/database.py', reloading
+2017-01-28 14:32:40,451 INFO _internal  * Restarting with stat
+2017-01-28 14:32:40,541 DEBUG cyclops debug
+2017-01-28 14:32:40,541 INFO cyclops info
+2017-01-28 14:32:40,541 ERROR cyclops error
+2017-01-28 14:32:40,546 WARNING _internal  * Debugger is active!
+2017-01-28 14:32:40,557 INFO _internal  * Debugger pin code: 296-103-283
+2017-01-28 14:32:45,595 INFO _internal  * Detected change in '/Users/benji/Documents/development/code/cyclops/lib/database.py', reloading
+2017-01-28 14:32:45,609 INFO _internal  * Restarting with stat
+2017-01-28 14:32:45,708 DEBUG cyclops debug
+2017-01-28 14:32:45,708 INFO cyclops info
+2017-01-28 14:32:45,708 ERROR cyclops error
+2017-01-28 14:32:45,713 WARNING _internal  * Debugger is active!
+2017-01-28 14:32:45,725 INFO _internal  * Debugger pin code: 296-103-283
+2017-01-28 14:32:55,785 INFO _internal  * Detected change in '/Users/benji/Documents/development/code/cyclops/lib/database.py', reloading
+2017-01-28 14:32:55,797 INFO _internal  * Restarting with stat
+2017-01-28 14:32:55,903 DEBUG cyclops debug
+2017-01-28 14:32:55,903 INFO cyclops info
+2017-01-28 14:32:55,903 ERROR cyclops error
+2017-01-28 14:32:55,909 WARNING _internal  * Debugger is active!
+2017-01-28 14:32:55,920 INFO _internal  * Debugger pin code: 296-103-283
+2017-01-28 14:33:12,010 INFO _internal  * Detected change in '/Users/benji/Documents/development/code/cyclops/lib/database.py', reloading
+2017-01-28 14:33:12,022 INFO _internal  * Restarting with stat
+2017-01-28 14:33:12,118 DEBUG cyclops debug
+2017-01-28 14:33:12,118 INFO cyclops info
+2017-01-28 14:33:12,118 ERROR cyclops error
+2017-01-28 14:33:12,125 WARNING _internal  * Debugger is active!
+2017-01-28 14:33:12,135 INFO _internal  * Debugger pin code: 296-103-283
+2017-01-28 14:33:22,178 INFO _internal  * Detected change in '/Users/benji/Documents/development/code/cyclops/lib/database.py', reloading
+2017-01-28 14:33:22,188 INFO _internal  * Restarting with stat
+2017-01-28 14:33:22,277 DEBUG cyclops debug
+2017-01-28 14:33:22,277 INFO cyclops info
+2017-01-28 14:33:22,277 ERROR cyclops error
+2017-01-28 14:33:22,283 WARNING _internal  * Debugger is active!
+2017-01-28 14:33:22,293 INFO _internal  * Debugger pin code: 296-103-283
+2017-01-28 14:33:33,356 INFO _internal  * Detected change in '/Users/benji/Documents/development/code/cyclops/lib/database.py', reloading
+2017-01-28 14:33:33,366 INFO _internal  * Restarting with stat
+2017-01-28 14:33:33,453 DEBUG cyclops debug
+2017-01-28 14:33:33,453 INFO cyclops info
+2017-01-28 14:33:33,453 ERROR cyclops error
+2017-01-28 14:33:33,458 WARNING _internal  * Debugger is active!
+2017-01-28 14:33:33,467 INFO _internal  * Debugger pin code: 296-103-283
+2017-01-28 14:34:23,720 INFO _internal  * Detected change in '/Users/benji/Documents/development/code/cyclops/lib/database.py', reloading
+2017-01-28 14:34:23,730 INFO _internal  * Restarting with stat
+2017-01-28 14:34:23,819 DEBUG cyclops debug
+2017-01-28 14:34:23,819 INFO cyclops info
+2017-01-28 14:34:23,819 ERROR cyclops error
+2017-01-28 14:34:23,824 WARNING _internal  * Debugger is active!
+2017-01-28 14:34:23,834 INFO _internal  * Debugger pin code: 296-103-283
+2017-01-28 14:34:36,911 INFO _internal  * Detected change in '/Users/benji/Documents/development/code/cyclops/lib/database.py', reloading
+2017-01-28 14:34:36,924 INFO _internal  * Restarting with stat
+2017-01-28 14:34:37,014 DEBUG cyclops debug
+2017-01-28 14:34:37,014 INFO cyclops info
+2017-01-28 14:34:37,014 ERROR cyclops error
+2017-01-28 14:34:37,020 WARNING _internal  * Debugger is active!
+2017-01-28 14:34:37,030 INFO _internal  * Debugger pin code: 296-103-283
+2017-01-28 14:34:45,075 INFO _internal  * Detected change in '/Users/benji/Documents/development/code/cyclops/lib/database.py', reloading
+2017-01-28 14:34:45,084 INFO _internal  * Restarting with stat
+2017-01-28 14:34:45,178 DEBUG cyclops debug
+2017-01-28 14:34:45,178 INFO cyclops info
+2017-01-28 14:34:45,178 ERROR cyclops error
+2017-01-28 14:34:45,184 WARNING _internal  * Debugger is active!
+2017-01-28 14:34:45,194 INFO _internal  * Debugger pin code: 296-103-283
+2017-01-28 14:39:48,629 INFO _internal  * Detected change in '/Users/benji/Documents/development/code/cyclops/lib/cyclops.py', reloading
+2017-01-28 14:39:48,639 INFO _internal  * Restarting with stat
+2017-01-28 14:39:48,727 DEBUG cyclops debug
+2017-01-28 14:39:48,727 INFO cyclops info
+2017-01-28 14:39:48,727 ERROR cyclops error
+2017-01-28 14:39:48,732 WARNING _internal  * Debugger is active!
+2017-01-28 14:39:48,741 INFO _internal  * Debugger pin code: 296-103-283
+2017-01-28 14:40:33,970 INFO _internal  * Detected change in '/Users/benji/Documents/development/code/cyclops/lib/cyclops.py', reloading
+2017-01-28 14:40:33,983 INFO _internal  * Restarting with stat
+2017-01-28 14:40:34,071 DEBUG cyclops debug
+2017-01-28 14:40:34,072 INFO cyclops info
+2017-01-28 14:40:34,072 ERROR cyclops error
+2017-01-28 14:40:34,076 WARNING _internal  * Debugger is active!
+2017-01-28 14:40:34,088 INFO _internal  * Debugger pin code: 296-103-283
+2017-01-28 14:40:39,124 INFO _internal  * Detected change in '/Users/benji/Documents/development/code/cyclops/lib/cyclops.py', reloading
+2017-01-28 14:40:39,134 INFO _internal  * Restarting with stat
+2017-01-28 14:40:39,227 DEBUG cyclops debug
+2017-01-28 14:40:39,228 INFO cyclops info
+2017-01-28 14:40:39,228 ERROR cyclops error
+2017-01-28 14:40:39,232 WARNING _internal  * Debugger is active!
+2017-01-28 14:40:39,243 INFO _internal  * Debugger pin code: 296-103-283
+2017-01-28 14:46:26,856 INFO _internal  * Detected change in '/Users/benji/Documents/development/code/cyclops/lib/cyclops.py', reloading
+2017-01-28 14:46:26,870 INFO _internal  * Restarting with stat
+2017-01-28 14:46:26,967 DEBUG cyclops debug
+2017-01-28 14:46:26,967 INFO cyclops info
+2017-01-28 14:46:26,967 ERROR cyclops error
+2017-01-28 14:46:26,973 WARNING _internal  * Debugger is active!
+2017-01-28 14:46:26,982 INFO _internal  * Debugger pin code: 296-103-283
+2017-01-28 14:46:38,038 INFO _internal  * Detected change in '/Users/benji/Documents/development/code/cyclops/lib/auth.py', reloading
+2017-01-28 14:46:38,048 INFO _internal  * Restarting with stat
+2017-01-28 14:46:38,137 DEBUG cyclops debug
+2017-01-28 14:46:38,137 INFO cyclops info
+2017-01-28 14:46:38,137 ERROR cyclops error
+2017-01-28 14:46:38,141 WARNING _internal  * Debugger is active!
+2017-01-28 14:46:38,151 INFO _internal  * Debugger pin code: 296-103-283
+2017-01-28 14:47:25,384 INFO _internal  * Detected change in '/Users/benji/Documents/development/code/cyclops/lib/auth.py', reloading
+2017-01-28 14:47:25,395 INFO _internal  * Restarting with stat
+2017-01-28 14:47:25,485 DEBUG cyclops debug
+2017-01-28 14:47:25,485 INFO cyclops info
+2017-01-28 14:47:25,485 ERROR cyclops error
+2017-01-28 14:47:25,490 WARNING _internal  * Debugger is active!
+2017-01-28 14:47:25,499 INFO _internal  * Debugger pin code: 296-103-283
+2017-01-28 14:47:34,547 INFO _internal  * Detected change in '/Users/benji/Documents/development/code/cyclops/lib/auth.py', reloading
+2017-01-28 14:47:34,557 INFO _internal  * Restarting with stat
+2017-01-28 14:47:34,644 DEBUG cyclops debug
+2017-01-28 14:47:34,644 INFO cyclops info
+2017-01-28 14:47:34,644 ERROR cyclops error
+2017-01-28 14:47:34,649 WARNING _internal  * Debugger is active!
+2017-01-28 14:47:34,658 INFO _internal  * Debugger pin code: 296-103-283
+2017-01-28 14:47:39,696 INFO _internal  * Detected change in '/Users/benji/Documents/development/code/cyclops/lib/auth.py', reloading
+2017-01-28 14:47:39,706 INFO _internal  * Restarting with stat
+2017-01-28 14:47:39,799 DEBUG cyclops debug
+2017-01-28 14:47:39,799 INFO cyclops info
+2017-01-28 14:47:39,800 ERROR cyclops error
+2017-01-28 14:47:39,806 WARNING _internal  * Debugger is active!
+2017-01-28 14:47:39,816 INFO _internal  * Debugger pin code: 296-103-283
+2017-01-28 14:47:42,842 INFO _internal  * Detected change in '/Users/benji/Documents/development/code/cyclops/lib/auth.py', reloading
+2017-01-28 14:47:42,854 INFO _internal  * Restarting with stat
+2017-01-28 14:47:42,943 DEBUG cyclops debug
+2017-01-28 14:47:42,943 INFO cyclops info
+2017-01-28 14:47:42,943 ERROR cyclops error
+2017-01-28 14:47:42,948 WARNING _internal  * Debugger is active!
+2017-01-28 14:47:42,959 INFO _internal  * Debugger pin code: 296-103-283
+2017-01-28 14:47:59,048 INFO _internal  * Detected change in '/Users/benji/Documents/development/code/cyclops/lib/auth.py', reloading
+2017-01-28 14:47:59,058 INFO _internal  * Restarting with stat
+2017-01-28 14:47:59,153 DEBUG cyclops debug
+2017-01-28 14:47:59,153 INFO cyclops info
+2017-01-28 14:47:59,154 ERROR cyclops error
+2017-01-28 14:47:59,159 WARNING _internal  * Debugger is active!
+2017-01-28 14:47:59,170 INFO _internal  * Debugger pin code: 296-103-283
+2017-01-28 14:48:16,262 INFO _internal  * Detected change in '/Users/benji/Documents/development/code/cyclops/lib/cyclops.py', reloading
+2017-01-28 14:48:16,272 INFO _internal  * Restarting with stat
+2017-01-28 14:49:13,133 DEBUG cyclops debug
+2017-01-28 14:49:13,133 INFO cyclops info
+2017-01-28 14:49:13,134 ERROR cyclops error
+2017-01-28 14:49:20,468 DEBUG cyclops debug
+2017-01-28 14:49:20,468 INFO cyclops info
+2017-01-28 14:49:20,468 ERROR cyclops error
+2017-01-28 14:49:50,772 DEBUG cyclops debug
+2017-01-28 14:49:50,772 INFO cyclops info
+2017-01-28 14:49:50,772 ERROR cyclops error
+2017-01-28 14:50:21,453 DEBUG cyclops debug
+2017-01-28 14:50:21,453 INFO cyclops info
+2017-01-28 14:50:21,453 ERROR cyclops error
+2017-01-28 14:51:12,547 DEBUG cyclops debug
+2017-01-28 14:51:12,548 INFO cyclops info
+2017-01-28 14:51:12,548 ERROR cyclops error
+2017-01-28 14:54:22,524 DEBUG cyclops debug
+2017-01-28 14:54:22,524 INFO cyclops info
+2017-01-28 14:54:22,524 ERROR cyclops error
+2017-01-28 14:54:36,751 DEBUG cyclops debug
+2017-01-28 14:54:36,751 INFO cyclops info
+2017-01-28 14:54:36,751 ERROR cyclops error
+2017-01-28 14:55:03,459 DEBUG cyclops debug
+2017-01-28 14:55:03,460 INFO cyclops info
+2017-01-28 14:55:03,460 ERROR cyclops error

@@ -1,4 +1,5 @@
 venv/
 etc/config/config.json
 .DS_Store
-.pyc
+*.pyc
+etc/db/*

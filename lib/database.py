@@ -36,6 +36,14 @@ class Database():
 
         return identifier
 
+
+    def get_all_identifiers(self, data_type):
+        path = "%s/%s" % (self.PATH, data_type)
+        print path
+        
+        for path, directories, files in os.walk(path):
+            return [f.replace(".json", "") for f in files]
+
     def load(self, data_type, identifier):
         path = "%s/%s/%s.json" % (self.PATH, data_type, identifier)
         try:
@@ -75,8 +83,9 @@ class Database():
 def main():
     db = Database()
 
-    print db.get_random_id()
+    #print db.get_random_id()
 
+    print db.get_all_identifiers("users")
     #print db.load("games", "hi1zpsx99x")
 
     #db.save("game", {"id": "173"})
