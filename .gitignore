@@ -2,4 +2,4 @@ venv/
 etc/config/config.json
 .DS_Store
 *.pyc
-etc/db/*
+etc/db/*.json
