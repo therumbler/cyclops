@@ -7,3 +7,6 @@ Authentication is done via Instagram.
 
 
 Created with React.js, Python and Flask.
+
+This is not even close to complete. 
+

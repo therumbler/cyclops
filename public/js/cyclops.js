@@ -6,8 +6,7 @@ var Cyclops = React.createClass({
 			</div>
 		)
 	},
-
-	componentDidMount: function(){
+	componentDidMount: function() {
 		
 	}
 });
