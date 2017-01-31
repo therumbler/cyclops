@@ -17,14 +17,14 @@ class Game():
         if identifier:
             self.load(identifier)
 
-    def add_player(self, identifier):
-        if identifier in [p["identifier"] for p in self.players]:
+    def add_player(self, username):
+        if username in [p["username"] for p in self.players]:
             #player already exists
             print "player already exists"
             return False
 
         player = {
-            "identifier": identifier,
+            "username": username,
             "hand": []
         }
 
@@ -42,7 +42,7 @@ class Game():
 
         if len(self.deck) == 0:            
             for player in self.players:
-                media = instagram.get_user_media(player["identifier"])
+                media = instagram.get_user_media(player["username"])
                 for item in media["items"]:
                     self.deck.append(item)     
 
@@ -57,7 +57,7 @@ class Game():
         for i in range(0, 4):
             for player in self.players:
                 if len(player["hand"]) == 5:
-                    print "Error: %s already has 5 cards" % player["identifier"]
+                    print "Error: %s already has 5 cards" % player["username"]
                     continue
                 card = self.deck.pop()
                 player["hand"].append(card)
@@ -66,30 +66,30 @@ class Game():
 
         return True
 
-    def get_player(self, identifier):
+    def get_player(self, username):
         try:
-            index = [p["identifier"] for p in self.players].index(identifier)
+            index = [p["username"] for p in self.players].index(username)
         except ValueError, e:
-            print "Error: player with id %s does not exist" % identifier
+            print "Error: player with id %s does not exist" % username
             return False
  
         return self.players[index]
 
-    def play_card(self, player_id, card_id):
+    def play_card(self, username, card_id):
         if self.active_player_index == -1:
             print "Error: playcard(): game hasn't started"
             return False
 
-        player = self.get_player(player_id)        
+        player = self.get_player(username)        
         if not player:
             print "no player found"
             return False
 
         if len(self.pile) == 0:
             #this is the initial card. ONly allow current player to play
-            current_player_id = self.players[self.active_player_index]["identifier"]
-            if player_id != current_player_id:
-                print "Error: The first card hasn't been played yet and %s isn't the current player" % player_id
+            current_player_username = self.players[self.active_player_index]["username"]
+            if username != current_player_username:
+                print "Error: The first card hasn't been played yet and %s isn't the current player" % username
                 return False
 
         card_identifiers = [card["id"] for card in player["hand"]]
@@ -98,11 +98,11 @@ class Game():
         except ValueError, e:
             card_index = -1
         if card_index < 0:
-            print "Error: %s not in %s's hand" % (card_id, player["identifier"])
+            print "Error: %s not in %s's hand" % (card_id, player["username"])
             return False
 
 
-        player_index = [p["identifier"] for p in self.players].index(player_id["identifier"])
+        player_index = [p["username"] for p in self.players].index(player["username"])
         card = self.players[player_index]["hand"].pop(card_index)
 
         card["player_id"] = player["identifier"]
@@ -160,28 +160,30 @@ class Game():
                 "game": self.to_dict()
             }
 
-        players_yet_to_play = [p["identifier"] for p in self.players if len(p["hand"]) == 5]
-        print "self.active_player_index", self.active_player_index
+        players_yet_to_play = [p["username"] for p in self.players if len(p["hand"]) == 5]
+        
         return {
-            "current_player" : self.players[self.active_player_index]["identifier"],
+            "current_player" : self.players[self.active_player_index]["username"],
             "status": "in progress",
-            "players_yet_to_play": players_yet_to_play
+            "players_yet_to_play": players_yet_to_play,
+            "game": self.to_dict()
         }
 
     def __str__(self):
         return json.dumps(self.to_dict())
 
 def main():
+    game_id = "xv1t6jnmbp"
     game_id = "0kpbzj95pm"
     game = Game(game_id)
-    game.add_player("therumbler")
-    game.add_player("bopperclark")
-    game.add_player("anotherexcuse")
+    #game.add_player("therumbler")
+    #game.add_player("bopperclark")
+    #game.add_player("anotherexcuse")
 
-    game.start()
-    print game.get_status() 
+    response = game.get_status() 
+    print json.dumps(response, indent = 2)
     card_id = "1411723089812736816_30746200"
-    game.play_card("therumbler", card_id)
+    #game.play_card("therumbler", card_id)
   
 if __name__ == '__main__':
     main()

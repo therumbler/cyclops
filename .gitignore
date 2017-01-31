@@ -3,3 +3,4 @@ etc/config/config.json
 .DS_Store
 *.pyc
 etc/db/*/*.json
+etc/logs/*.*

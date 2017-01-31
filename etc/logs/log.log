@@ -1,737 +1,766 @@
-DEBUG 2017-01-25 12:41:45,606 cyclops debug
-INFO 2017-01-25 12:41:45,607 cyclops info
-DEBUG 2017-01-25 12:42:22,386 cyclops debug
-INFO 2017-01-25 12:42:22,386 cyclops info
-DEBUG 2017-01-25 12:42:25,576 cyclops debug
-INFO 2017-01-25 12:42:25,576 cyclops info
-2017-01-25 12:42:39,471 DEBUG cyclops debug
-2017-01-25 12:42:39,471 INFO cyclops info
-2017-01-25 14:54:20,023 DEBUG cyclops debug
-2017-01-25 14:54:20,023 INFO cyclops info
-2017-01-25 14:54:33,351 DEBUG cyclops debug
-2017-01-25 14:54:33,351 INFO cyclops info
-2017-01-25 14:56:22,192 DEBUG cyclops debug
-2017-01-25 14:56:22,192 INFO cyclops info
-2017-01-25 14:56:33,199 DEBUG cyclops debug
-2017-01-25 14:56:33,200 INFO cyclops info
-2017-01-25 14:56:42,319 DEBUG cyclops debug
-2017-01-25 14:56:42,319 INFO cyclops info
-2017-01-25 14:56:49,979 DEBUG cyclops debug
-2017-01-25 14:56:49,979 INFO cyclops info
-2017-01-25 14:56:54,725 DEBUG cyclops debug
-2017-01-25 14:56:54,726 INFO cyclops info
-2017-01-25 14:57:55,617 DEBUG cyclops debug
-2017-01-25 14:57:55,617 INFO cyclops info
-2017-01-25 14:57:55,634 WARNING _internal  * Debugger is active!
-2017-01-25 14:57:55,667 INFO _internal  * Debugger pin code: 575-122-413
-2017-01-25 14:57:56,687 INFO _internal  * Detected change in '/Users/brumble/Documents/stuff/cyclops/app.py', reloading
-2017-01-25 14:57:56,836 DEBUG cyclops debug
-2017-01-25 14:57:56,836 INFO cyclops info
-2017-01-25 14:57:56,843 WARNING _internal  * Debugger is active!
-2017-01-25 14:57:56,858 INFO _internal  * Debugger pin code: 575-122-413
-2017-01-25 14:58:09,962 INFO _internal  * Detected change in '/Users/brumble/Documents/stuff/cyclops/app.py', reloading
-2017-01-25 14:58:10,172 DEBUG cyclops debug
-2017-01-25 14:58:10,172 INFO cyclops info
-2017-01-25 14:58:10,178 WARNING _internal  * Debugger is active!
-2017-01-25 14:58:10,200 INFO _internal  * Debugger pin code: 575-122-413
-2017-01-25 14:58:11,345 INFO _internal 127.0.0.1 - - [25/Jan/2017 14:58:11] "GET /login HTTP/1.1" 302 -
-2017-01-25 14:58:21,426 INFO _internal 127.0.0.1 - - [25/Jan/2017 14:58:21] "GET /callback?code=48bbfc5bb7a540fc8d5cd27d7ba781ea HTTP/1.1" 404 -
-2017-01-25 14:59:04,608 INFO _internal  * Detected change in '/Users/brumble/Documents/stuff/cyclops/app.py', reloading
-2017-01-25 14:59:04,852 DEBUG cyclops debug
-2017-01-25 14:59:04,852 INFO cyclops info
-2017-01-25 14:59:04,869 WARNING _internal  * Debugger is active!
-2017-01-25 14:59:04,898 INFO _internal  * Debugger pin code: 575-122-413
-2017-01-25 14:59:04,922 INFO _internal 127.0.0.1 - - [25/Jan/2017 14:59:04] "GET /callback?code=48bbfc5bb7a540fc8d5cd27d7ba781ea HTTP/1.1" 500 -
-2017-01-25 14:59:04,954 INFO _internal 127.0.0.1 - - [25/Jan/2017 14:59:04] "GET /callback?__debugger__=yes&cmd=resource&f=style.css HTTP/1.1" 200 -
-2017-01-25 14:59:04,956 INFO _internal 127.0.0.1 - - [25/Jan/2017 14:59:04] "GET /callback?__debugger__=yes&cmd=resource&f=jquery.js HTTP/1.1" 200 -
-2017-01-25 14:59:04,959 INFO _internal 127.0.0.1 - - [25/Jan/2017 14:59:04] "GET /callback?__debugger__=yes&cmd=resource&f=debugger.js HTTP/1.1" 200 -
-2017-01-25 14:59:05,179 INFO _internal 127.0.0.1 - - [25/Jan/2017 14:59:05] "GET /callback?__debugger__=yes&cmd=resource&f=ubuntu.ttf HTTP/1.1" 200 -
-2017-01-25 14:59:05,227 INFO _internal 127.0.0.1 - - [25/Jan/2017 14:59:05] "GET /callback?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1" 200 -
-2017-01-25 14:59:05,342 INFO _internal 127.0.0.1 - - [25/Jan/2017 14:59:05] "GET /callback?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1" 200 -
-2017-01-25 14:59:10,968 INFO _internal  * Detected change in '/Users/brumble/Documents/stuff/cyclops/app.py', reloading
-2017-01-25 14:59:11,123 DEBUG cyclops debug
-2017-01-25 14:59:11,123 INFO cyclops info
-2017-01-25 14:59:11,130 WARNING _internal  * Debugger is active!
-2017-01-25 14:59:11,151 INFO _internal  * Debugger pin code: 575-122-413
-2017-01-25 14:59:11,580 INFO _internal 127.0.0.1 - - [25/Jan/2017 14:59:11] "GET /callback?code=48bbfc5bb7a540fc8d5cd27d7ba781ea HTTP/1.1" 200 -
-2017-01-25 14:59:17,229 INFO _internal  * Detected change in '/Users/brumble/Documents/stuff/cyclops/app.py', reloading
-2017-01-25 14:59:17,390 DEBUG cyclops debug
-2017-01-25 14:59:17,391 INFO cyclops info
-2017-01-25 14:59:17,397 WARNING _internal  * Debugger is active!
-2017-01-25 14:59:17,412 INFO _internal  * Debugger pin code: 575-122-413
-2017-01-25 14:59:54,665 INFO _internal  * Detected change in '/Users/brumble/Documents/stuff/cyclops/lib/cyclops.py', reloading
-2017-01-25 14:59:54,891 DEBUG cyclops debug
-2017-01-25 14:59:54,891 INFO cyclops info
-2017-01-25 14:59:54,902 WARNING _internal  * Debugger is active!
-2017-01-25 14:59:54,924 INFO _internal  * Debugger pin code: 575-122-413
-2017-01-25 14:59:56,957 INFO _internal  * Detected change in '/Users/brumble/Documents/stuff/cyclops/lib/cyclops.py', reloading
-2017-01-25 14:59:57,120 DEBUG cyclops debug
-2017-01-25 14:59:57,121 INFO cyclops info
-2017-01-25 14:59:57,135 WARNING _internal  * Debugger is active!
-2017-01-25 14:59:57,149 INFO _internal  * Debugger pin code: 575-122-413
-2017-01-25 15:00:32,408 INFO _internal  * Detected change in '/Users/brumble/Documents/stuff/cyclops/app.py', reloading
-2017-01-25 15:00:32,655 DEBUG cyclops debug
-2017-01-25 15:00:32,655 INFO cyclops info
-2017-01-25 15:00:32,666 WARNING _internal  * Debugger is active!
-2017-01-25 15:00:32,689 INFO _internal  * Debugger pin code: 575-122-413
-2017-01-25 15:00:34,895 INFO _internal 127.0.0.1 - - [25/Jan/2017 15:00:34] "GET /callback?code=48bbfc5bb7a540fc8d5cd27d7ba781ea HTTP/1.1" 500 -
-2017-01-25 15:00:34,926 INFO _internal 127.0.0.1 - - [25/Jan/2017 15:00:34] "GET /callback?__debugger__=yes&cmd=resource&f=style.css HTTP/1.1" 200 -
-2017-01-25 15:00:34,928 INFO _internal 127.0.0.1 - - [25/Jan/2017 15:00:34] "GET /callback?__debugger__=yes&cmd=resource&f=jquery.js HTTP/1.1" 200 -
-2017-01-25 15:00:34,930 INFO _internal 127.0.0.1 - - [25/Jan/2017 15:00:34] "GET /callback?__debugger__=yes&cmd=resource&f=debugger.js HTTP/1.1" 200 -
-2017-01-25 15:00:35,145 INFO _internal 127.0.0.1 - - [25/Jan/2017 15:00:35] "GET /callback?__debugger__=yes&cmd=resource&f=ubuntu.ttf HTTP/1.1" 200 -
-2017-01-25 15:00:35,208 INFO _internal 127.0.0.1 - - [25/Jan/2017 15:00:35] "GET /callback?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1" 200 -
-2017-01-25 15:00:57,879 INFO _internal  * Detected change in '/Users/brumble/Documents/stuff/cyclops/lib/instagram.py', reloading
-2017-01-25 15:00:58,153 DEBUG cyclops debug
-2017-01-25 15:00:58,153 INFO cyclops info
-2017-01-25 15:01:05,779 DEBUG cyclops debug
-2017-01-25 15:01:05,779 INFO cyclops info
-2017-01-25 15:01:21,235 DEBUG cyclops debug
-2017-01-25 15:01:21,235 INFO cyclops info
-2017-01-25 15:01:21,248 INFO _internal  * Running on http://localhost:5000/ (Press CTRL+C to quit)
-2017-01-25 15:01:21,252 INFO _internal  * Restarting with stat
-2017-01-25 15:01:21,377 DEBUG cyclops debug
-2017-01-25 15:01:21,378 INFO cyclops info
-2017-01-25 15:01:21,383 WARNING _internal  * Debugger is active!
-2017-01-25 15:01:21,422 INFO _internal  * Debugger pin code: 575-122-413
-2017-01-25 15:01:24,766 INFO _internal 127.0.0.1 - - [25/Jan/2017 15:01:24] "GET /callback?code=48bbfc5bb7a540fc8d5cd27d7ba781ea HTTP/1.1" 500 -
-2017-01-25 15:01:24,806 INFO _internal 127.0.0.1 - - [25/Jan/2017 15:01:24] "GET /callback?__debugger__=yes&cmd=resource&f=style.css HTTP/1.1" 200 -
-2017-01-25 15:01:24,814 INFO _internal 127.0.0.1 - - [25/Jan/2017 15:01:24] "GET /callback?__debugger__=yes&cmd=resource&f=jquery.js HTTP/1.1" 200 -
-2017-01-25 15:01:24,819 INFO _internal 127.0.0.1 - - [25/Jan/2017 15:01:24] "GET /callback?__debugger__=yes&cmd=resource&f=debugger.js HTTP/1.1" 200 -
-2017-01-25 15:01:25,047 INFO _internal 127.0.0.1 - - [25/Jan/2017 15:01:25] "GET /callback?__debugger__=yes&cmd=resource&f=ubuntu.ttf HTTP/1.1" 200 -
-2017-01-25 15:01:25,127 INFO _internal 127.0.0.1 - - [25/Jan/2017 15:01:25] "GET /callback?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1" 200 -
-2017-01-25 15:01:58,681 INFO _internal  * Detected change in '/Users/brumble/Documents/stuff/cyclops/lib/instagram.py', reloading
-2017-01-25 15:01:58,698 INFO _internal  * Restarting with stat
-2017-01-25 15:01:58,896 DEBUG cyclops debug
-2017-01-25 15:01:58,896 INFO cyclops info
-2017-01-25 15:01:58,910 WARNING _internal  * Debugger is active!
-2017-01-25 15:01:58,937 INFO _internal  * Debugger pin code: 575-122-413
-2017-01-25 15:02:18,100 INFO _internal  * Detected change in '/Users/brumble/Documents/stuff/cyclops/lib/instagram.py', reloading
-2017-01-25 15:02:18,114 INFO _internal  * Restarting with stat
-2017-01-25 15:02:18,257 DEBUG cyclops debug
-2017-01-25 15:02:18,257 INFO cyclops info
-2017-01-25 15:02:18,265 WARNING _internal  * Debugger is active!
-2017-01-25 15:02:18,279 INFO _internal  * Debugger pin code: 575-122-413
-2017-01-25 15:10:49,916 INFO _internal  * Detected change in '/Users/brumble/Documents/stuff/cyclops/lib/cyclops.py', reloading
-2017-01-25 15:10:49,953 INFO _internal  * Restarting with stat
-2017-01-25 15:10:50,197 DEBUG cyclops debug
-2017-01-25 15:10:50,197 INFO cyclops info
-2017-01-25 15:10:50,208 WARNING _internal  * Debugger is active!
-2017-01-25 15:10:50,232 INFO _internal  * Debugger pin code: 575-122-413
-2017-01-25 15:12:06,780 INFO _internal  * Detected change in '/Users/brumble/Documents/stuff/cyclops/lib/cyclops.py', reloading
-2017-01-25 15:12:06,796 INFO _internal  * Restarting with stat
-2017-01-25 15:12:07,018 DEBUG cyclops debug
-2017-01-25 15:12:07,019 INFO cyclops info
-2017-01-25 15:12:07,034 WARNING _internal  * Debugger is active!
-2017-01-25 15:12:07,057 INFO _internal  * Debugger pin code: 575-122-413
-2017-01-25 15:18:23,747 INFO _internal  * Detected change in '/Users/brumble/Documents/stuff/cyclops/lib/instagram.py', reloading
-2017-01-25 15:18:23,790 INFO _internal  * Restarting with stat
-2017-01-25 15:18:24,042 DEBUG cyclops debug
-2017-01-25 15:18:24,042 INFO cyclops info
-2017-01-25 15:18:24,061 WARNING _internal  * Debugger is active!
-2017-01-25 15:18:24,087 INFO _internal  * Debugger pin code: 575-122-413
-2017-01-25 15:18:35,172 INFO _internal  * Detected change in '/Users/brumble/Documents/stuff/cyclops/lib/instagram.py', reloading
-2017-01-25 15:18:35,191 INFO _internal  * Restarting with stat
-2017-01-25 15:18:35,380 DEBUG cyclops debug
-2017-01-25 15:18:35,381 INFO cyclops info
-2017-01-25 15:18:35,390 WARNING _internal  * Debugger is active!
-2017-01-25 15:18:35,410 INFO _internal  * Debugger pin code: 575-122-413
-2017-01-25 15:19:06,643 INFO _internal  * Detected change in '/Users/brumble/Documents/stuff/cyclops/lib/instagram.py', reloading
-2017-01-25 15:19:06,661 INFO _internal  * Restarting with stat
-2017-01-25 15:19:06,864 DEBUG cyclops debug
-2017-01-25 15:19:06,864 INFO cyclops info
-2017-01-25 15:19:06,874 WARNING _internal  * Debugger is active!
-2017-01-25 15:19:06,897 INFO _internal  * Debugger pin code: 575-122-413
-2017-01-25 15:19:15,981 INFO _internal  * Detected change in '/Users/brumble/Documents/stuff/cyclops/lib/instagram.py', reloading
-2017-01-25 15:19:15,998 INFO _internal  * Restarting with stat
-2017-01-25 15:19:16,128 DEBUG cyclops debug
-2017-01-25 15:19:16,128 INFO cyclops info
-2017-01-25 15:19:16,134 WARNING _internal  * Debugger is active!
-2017-01-25 15:19:16,147 INFO _internal  * Debugger pin code: 575-122-413
-2017-01-25 15:22:53,676 INFO _internal  * Detected change in '/Users/brumble/Documents/stuff/cyclops/lib/instagram.py', reloading
-2017-01-25 15:22:53,709 INFO _internal  * Restarting with stat
-2017-01-25 15:22:53,914 DEBUG cyclops debug
-2017-01-25 15:22:53,914 INFO cyclops info
-2017-01-25 15:22:53,930 WARNING _internal  * Debugger is active!
-2017-01-25 15:22:53,954 INFO _internal  * Debugger pin code: 575-122-413
-2017-01-25 15:23:03,032 INFO _internal  * Detected change in '/Users/brumble/Documents/stuff/cyclops/lib/instagram.py', reloading
-2017-01-25 15:23:03,048 INFO _internal  * Restarting with stat
-2017-01-25 15:23:03,257 DEBUG cyclops debug
-2017-01-25 15:23:03,257 INFO cyclops info
-2017-01-25 15:23:03,272 WARNING _internal  * Debugger is active!
-2017-01-25 15:23:03,329 INFO _internal  * Debugger pin code: 575-122-413
-2017-01-25 15:23:19,461 INFO _internal  * Detected change in '/Users/brumble/Documents/stuff/cyclops/lib/instagram.py', reloading
-2017-01-25 15:23:19,478 INFO _internal  * Restarting with stat
-2017-01-25 15:23:19,688 DEBUG cyclops debug
-2017-01-25 15:23:19,688 INFO cyclops info
-2017-01-25 15:23:19,699 WARNING _internal  * Debugger is active!
-2017-01-25 15:23:19,725 INFO _internal  * Debugger pin code: 575-122-413
-2017-01-25 15:23:23,765 INFO _internal  * Detected change in '/Users/brumble/Documents/stuff/cyclops/lib/instagram.py', reloading
-2017-01-25 15:23:23,779 INFO _internal  * Restarting with stat
-2017-01-25 15:23:23,931 DEBUG cyclops debug
-2017-01-25 15:23:23,931 INFO cyclops info
-2017-01-25 15:23:23,939 WARNING _internal  * Debugger is active!
-2017-01-25 15:23:23,959 INFO _internal  * Debugger pin code: 575-122-413
-2017-01-25 15:25:05,656 INFO _internal  * Detected change in '/Users/brumble/Documents/stuff/cyclops/lib/instagram.py', reloading
-2017-01-25 15:25:05,685 INFO _internal  * Restarting with stat
-2017-01-25 15:25:05,921 DEBUG cyclops debug
-2017-01-25 15:25:05,921 INFO cyclops info
-2017-01-25 15:25:05,939 WARNING _internal  * Debugger is active!
-2017-01-25 15:25:05,960 INFO _internal  * Debugger pin code: 575-122-413
-2017-01-25 15:25:14,039 INFO _internal  * Detected change in '/Users/brumble/Documents/stuff/cyclops/lib/instagram.py', reloading
-2017-01-25 15:25:14,053 INFO _internal  * Restarting with stat
-2017-01-25 15:25:14,182 DEBUG cyclops debug
-2017-01-25 15:25:14,182 INFO cyclops info
-2017-01-25 15:25:14,189 WARNING _internal  * Debugger is active!
-2017-01-25 15:25:14,203 INFO _internal  * Debugger pin code: 575-122-413
-2017-01-25 15:25:22,275 INFO _internal  * Detected change in '/Users/brumble/Documents/stuff/cyclops/lib/instagram.py', reloading
-2017-01-25 15:25:22,290 INFO _internal  * Restarting with stat
-2017-01-25 15:25:22,429 DEBUG cyclops debug
-2017-01-25 15:25:22,429 INFO cyclops info
-2017-01-25 15:25:22,436 WARNING _internal  * Debugger is active!
-2017-01-25 15:25:22,450 INFO _internal  * Debugger pin code: 575-122-413
-2017-01-25 15:25:24,471 INFO _internal  * Detected change in '/Users/brumble/Documents/stuff/cyclops/lib/instagram.py', reloading
-2017-01-25 15:25:24,485 INFO _internal  * Restarting with stat
-2017-01-25 15:25:24,652 DEBUG cyclops debug
-2017-01-25 15:25:24,652 INFO cyclops info
-2017-01-25 15:25:24,662 WARNING _internal  * Debugger is active!
-2017-01-25 15:25:24,679 INFO _internal  * Debugger pin code: 575-122-413
-2017-01-25 15:25:26,711 INFO _internal  * Detected change in '/Users/brumble/Documents/stuff/cyclops/lib/instagram.py', reloading
-2017-01-25 15:25:26,725 INFO _internal  * Restarting with stat
-2017-01-25 15:25:26,863 DEBUG cyclops debug
-2017-01-25 15:25:26,863 INFO cyclops info
-2017-01-25 15:25:26,869 WARNING _internal  * Debugger is active!
-2017-01-25 15:25:26,883 INFO _internal  * Debugger pin code: 575-122-413
-2017-01-25 15:25:45,038 INFO _internal  * Detected change in '/Users/brumble/Documents/stuff/cyclops/lib/instagram.py', reloading
-2017-01-25 15:25:45,052 INFO _internal  * Restarting with stat
-2017-01-25 15:25:45,197 DEBUG cyclops debug
-2017-01-25 15:25:45,197 INFO cyclops info
-2017-01-25 15:25:45,205 WARNING _internal  * Debugger is active!
-2017-01-25 15:25:45,225 INFO _internal  * Debugger pin code: 575-122-413
-2017-01-25 15:26:02,349 INFO _internal  * Detected change in '/Users/brumble/Documents/stuff/cyclops/lib/instagram.py', reloading
-2017-01-25 15:26:02,375 INFO _internal  * Restarting with stat
-2017-01-25 15:26:02,544 DEBUG cyclops debug
-2017-01-25 15:26:02,544 INFO cyclops info
-2017-01-25 15:26:02,555 WARNING _internal  * Debugger is active!
-2017-01-25 15:26:02,576 INFO _internal  * Debugger pin code: 575-122-413
-2017-01-25 15:28:00,395 INFO _internal  * Detected change in '/Users/brumble/Documents/stuff/cyclops/lib/instagram.py', reloading
-2017-01-25 15:28:00,431 INFO _internal  * Restarting with stat
-2017-01-25 15:28:00,629 DEBUG cyclops debug
-2017-01-25 15:28:00,629 INFO cyclops info
-2017-01-25 15:28:00,640 WARNING _internal  * Debugger is active!
-2017-01-25 15:28:00,663 INFO _internal  * Debugger pin code: 575-122-413
-2017-01-25 15:29:10,153 INFO _internal  * Detected change in '/Users/brumble/Documents/stuff/cyclops/lib/instagram.py', reloading
-2017-01-25 15:29:10,174 INFO _internal  * Restarting with stat
-2017-01-25 15:29:10,320 DEBUG cyclops debug
-2017-01-25 15:29:10,320 INFO cyclops info
-2017-01-25 15:29:10,331 WARNING _internal  * Debugger is active!
-2017-01-25 15:29:10,347 INFO _internal  * Debugger pin code: 575-122-413
-2017-01-25 15:30:24,930 INFO _internal  * Detected change in '/Users/brumble/Documents/stuff/cyclops/lib/instagram.py', reloading
-2017-01-25 15:30:25,013 INFO _internal  * Restarting with stat
-2017-01-25 15:30:25,269 DEBUG cyclops debug
-2017-01-25 15:30:25,269 INFO cyclops info
-2017-01-25 15:30:25,280 WARNING _internal  * Debugger is active!
-2017-01-25 15:30:25,308 INFO _internal  * Debugger pin code: 575-122-413
-2017-01-25 15:30:34,380 INFO _internal  * Detected change in '/Users/brumble/Documents/stuff/cyclops/lib/instagram.py', reloading
-2017-01-25 15:30:34,395 INFO _internal  * Restarting with stat
-2017-01-25 15:30:34,579 DEBUG cyclops debug
-2017-01-25 15:30:34,579 INFO cyclops info
-2017-01-25 15:30:34,591 WARNING _internal  * Debugger is active!
-2017-01-25 15:30:34,609 INFO _internal  * Debugger pin code: 575-122-413
-2017-01-25 15:31:09,894 INFO _internal  * Detected change in '/Users/brumble/Documents/stuff/cyclops/lib/instagram.py', reloading
-2017-01-25 15:31:09,912 INFO _internal  * Restarting with stat
-2017-01-25 15:31:10,104 DEBUG cyclops debug
-2017-01-25 15:31:10,104 INFO cyclops info
-2017-01-25 15:31:10,117 WARNING _internal  * Debugger is active!
-2017-01-25 15:31:10,139 INFO _internal  * Debugger pin code: 575-122-413
-2017-01-25 15:31:43,396 INFO _internal  * Detected change in '/Users/brumble/Documents/stuff/cyclops/lib/instagram.py', reloading
-2017-01-25 15:31:43,418 INFO _internal  * Restarting with stat
-2017-01-25 15:31:43,615 DEBUG cyclops debug
-2017-01-25 15:31:43,615 INFO cyclops info
-2017-01-25 15:31:43,628 WARNING _internal  * Debugger is active!
-2017-01-25 15:31:43,648 INFO _internal  * Debugger pin code: 575-122-413
-2017-01-25 15:32:05,789 INFO _internal  * Detected change in '/Users/brumble/Documents/stuff/cyclops/lib/instagram.py', reloading
-2017-01-25 15:32:05,808 INFO _internal  * Restarting with stat
-2017-01-25 15:32:05,952 DEBUG cyclops debug
-2017-01-25 15:32:05,952 INFO cyclops info
-2017-01-25 15:32:05,958 WARNING _internal  * Debugger is active!
-2017-01-25 15:32:05,972 INFO _internal  * Debugger pin code: 575-122-413
-2017-01-25 15:32:12,024 INFO _internal  * Detected change in '/Users/brumble/Documents/stuff/cyclops/lib/instagram.py', reloading
-2017-01-25 15:32:12,037 INFO _internal  * Restarting with stat
-2017-01-25 15:32:12,179 DEBUG cyclops debug
-2017-01-25 15:32:12,179 INFO cyclops info
-2017-01-25 15:32:12,185 WARNING _internal  * Debugger is active!
-2017-01-25 15:32:12,201 INFO _internal  * Debugger pin code: 575-122-413
-2017-01-25 15:32:30,406 INFO _internal 127.0.0.1 - - [25/Jan/2017 15:32:30] "GET /login HTTP/1.1" 302 -
-2017-01-25 15:32:31,110 INFO _internal 127.0.0.1 - - [25/Jan/2017 15:32:31] "GET /callback?code=b651523f1d9e415a8ec48d18b61455d8 HTTP/1.1" 500 -
-2017-01-25 15:32:31,134 INFO _internal 127.0.0.1 - - [25/Jan/2017 15:32:31] "GET /callback?__debugger__=yes&cmd=resource&f=style.css HTTP/1.1" 200 -
-2017-01-25 15:32:31,139 INFO _internal 127.0.0.1 - - [25/Jan/2017 15:32:31] "GET /callback?__debugger__=yes&cmd=resource&f=jquery.js HTTP/1.1" 200 -
-2017-01-25 15:32:31,143 INFO _internal 127.0.0.1 - - [25/Jan/2017 15:32:31] "GET /callback?__debugger__=yes&cmd=resource&f=debugger.js HTTP/1.1" 200 -
-2017-01-25 15:32:31,240 INFO _internal 127.0.0.1 - - [25/Jan/2017 15:32:31] "GET /callback?__debugger__=yes&cmd=resource&f=ubuntu.ttf HTTP/1.1" 200 -
-2017-01-25 15:32:31,319 INFO _internal 127.0.0.1 - - [25/Jan/2017 15:32:31] "GET /callback?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1" 200 -
-2017-01-25 15:32:43,417 INFO _internal  * Detected change in '/Users/brumble/Documents/stuff/cyclops/lib/cyclops.py', reloading
-2017-01-25 15:32:43,481 INFO _internal  * Restarting with stat
-2017-01-25 15:32:43,745 DEBUG cyclops debug
-2017-01-25 15:32:43,745 INFO cyclops info
-2017-01-25 15:32:43,755 WARNING _internal  * Debugger is active!
-2017-01-25 15:32:43,783 INFO _internal  * Debugger pin code: 575-122-413
-2017-01-25 15:32:44,178 INFO _internal 127.0.0.1 - - [25/Jan/2017 15:32:44] "GET /callback?code=b651523f1d9e415a8ec48d18b61455d8 HTTP/1.1" 500 -
-2017-01-25 15:32:44,203 INFO _internal 127.0.0.1 - - [25/Jan/2017 15:32:44] "GET /callback?__debugger__=yes&cmd=resource&f=style.css HTTP/1.1" 200 -
-2017-01-25 15:32:44,206 INFO _internal 127.0.0.1 - - [25/Jan/2017 15:32:44] "GET /callback?__debugger__=yes&cmd=resource&f=jquery.js HTTP/1.1" 200 -
-2017-01-25 15:32:44,208 INFO _internal 127.0.0.1 - - [25/Jan/2017 15:32:44] "GET /callback?__debugger__=yes&cmd=resource&f=debugger.js HTTP/1.1" 200 -
-2017-01-25 15:32:44,289 INFO _internal 127.0.0.1 - - [25/Jan/2017 15:32:44] "GET /callback?__debugger__=yes&cmd=resource&f=ubuntu.ttf HTTP/1.1" 200 -
-2017-01-25 15:32:44,312 INFO _internal 127.0.0.1 - - [25/Jan/2017 15:32:44] "GET /callback?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1" 200 -
-2017-01-25 15:32:44,449 INFO _internal 127.0.0.1 - - [25/Jan/2017 15:32:44] "GET /callback?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1" 200 -
-2017-01-25 15:32:55,999 INFO _internal 127.0.0.1 - - [25/Jan/2017 15:32:55] "GET /login HTTP/1.1" 302 -
-2017-01-25 15:32:56,439 INFO _internal 127.0.0.1 - - [25/Jan/2017 15:32:56] "GET /callback?code=8954b96388c348c5ba5697e4f1054d01 HTTP/1.1" 500 -
-2017-01-25 15:32:56,459 INFO _internal 127.0.0.1 - - [25/Jan/2017 15:32:56] "GET /callback?__debugger__=yes&cmd=resource&f=style.css HTTP/1.1" 200 -
-2017-01-25 15:32:56,462 INFO _internal 127.0.0.1 - - [25/Jan/2017 15:32:56] "GET /callback?__debugger__=yes&cmd=resource&f=jquery.js HTTP/1.1" 200 -
-2017-01-25 15:32:56,463 INFO _internal 127.0.0.1 - - [25/Jan/2017 15:32:56] "GET /callback?__debugger__=yes&cmd=resource&f=debugger.js HTTP/1.1" 200 -
-2017-01-25 15:32:56,621 INFO _internal 127.0.0.1 - - [25/Jan/2017 15:32:56] "GET /callback?__debugger__=yes&cmd=resource&f=ubuntu.ttf HTTP/1.1" 200 -
-2017-01-25 15:32:56,679 INFO _internal 127.0.0.1 - - [25/Jan/2017 15:32:56] "GET /callback?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1" 200 -
-2017-01-25 15:33:37,176 INFO _internal  * Detected change in '/Users/brumble/Documents/stuff/cyclops/lib/database.py', reloading
-2017-01-25 15:33:37,194 INFO _internal  * Restarting with stat
-2017-01-25 15:33:37,347 DEBUG cyclops debug
-2017-01-25 15:33:37,347 INFO cyclops info
-2017-01-25 15:33:37,353 WARNING _internal  * Debugger is active!
-2017-01-25 15:33:37,369 INFO _internal  * Debugger pin code: 575-122-413
-2017-01-25 15:33:38,471 INFO _internal 127.0.0.1 - - [25/Jan/2017 15:33:38] "GET /callback?code=8954b96388c348c5ba5697e4f1054d01 HTTP/1.1" 500 -
-2017-01-25 15:33:38,493 INFO _internal 127.0.0.1 - - [25/Jan/2017 15:33:38] "GET /callback?__debugger__=yes&cmd=resource&f=style.css HTTP/1.1" 200 -
-2017-01-25 15:33:38,494 INFO _internal 127.0.0.1 - - [25/Jan/2017 15:33:38] "GET /callback?__debugger__=yes&cmd=resource&f=jquery.js HTTP/1.1" 200 -
-2017-01-25 15:33:38,498 INFO _internal 127.0.0.1 - - [25/Jan/2017 15:33:38] "GET /callback?__debugger__=yes&cmd=resource&f=debugger.js HTTP/1.1" 200 -
-2017-01-25 15:33:38,644 INFO _internal 127.0.0.1 - - [25/Jan/2017 15:33:38] "GET /callback?__debugger__=yes&cmd=resource&f=ubuntu.ttf HTTP/1.1" 200 -
-2017-01-25 15:33:38,668 INFO _internal 127.0.0.1 - - [25/Jan/2017 15:33:38] "GET /callback?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1" 200 -
-2017-01-25 15:33:38,814 INFO _internal 127.0.0.1 - - [25/Jan/2017 15:33:38] "GET /callback?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1" 200 -
-2017-01-25 15:33:43,431 INFO _internal 127.0.0.1 - - [25/Jan/2017 15:33:43] "GET /login HTTP/1.1" 302 -
-2017-01-25 15:33:44,054 INFO _internal 127.0.0.1 - - [25/Jan/2017 15:33:44] "GET /callback?code=1699f54651d54bd4bf38e05c705fe33a HTTP/1.1" 200 -
-2017-01-25 15:34:07,590 INFO _internal  * Detected change in '/Users/brumble/Documents/stuff/cyclops/lib/cyclops.py', reloading
-2017-01-25 15:34:07,612 INFO _internal  * Restarting with stat
-2017-01-25 15:34:07,749 DEBUG cyclops debug
-2017-01-25 15:34:07,749 INFO cyclops info
-2017-01-25 15:34:07,756 WARNING _internal  * Debugger is active!
-2017-01-25 15:34:07,770 INFO _internal  * Debugger pin code: 575-122-413
-2017-01-25 15:35:16,262 INFO _internal  * Detected change in '/Users/brumble/Documents/stuff/cyclops/lib/instagram.py', reloading
-2017-01-25 15:35:16,283 INFO _internal  * Restarting with stat
-2017-01-25 15:35:16,491 DEBUG cyclops debug
-2017-01-25 15:35:16,491 INFO cyclops info
-2017-01-25 15:35:16,502 WARNING _internal  * Debugger is active!
-2017-01-25 15:35:16,524 INFO _internal  * Debugger pin code: 575-122-413
-2017-01-25 15:35:20,570 INFO _internal  * Detected change in '/Users/brumble/Documents/stuff/cyclops/lib/instagram.py', reloading
-2017-01-25 15:35:20,585 INFO _internal  * Restarting with stat
-2017-01-25 15:35:20,723 DEBUG cyclops debug
-2017-01-25 15:35:20,723 INFO cyclops info
-2017-01-25 15:35:20,730 WARNING _internal  * Debugger is active!
-2017-01-25 15:35:20,745 INFO _internal  * Debugger pin code: 575-122-413
-2017-01-25 15:35:27,700 INFO _internal 127.0.0.1 - - [25/Jan/2017 15:35:27] "GET /login HTTP/1.1" 302 -
-2017-01-25 15:35:31,752 INFO _internal 127.0.0.1 - - [25/Jan/2017 15:35:31] "GET /callback?code=00659c5315ca459c83b956fc75f7686d HTTP/1.1" 200 -
-2017-01-25 15:35:42,889 INFO _internal  * Detected change in '/Users/brumble/Documents/stuff/cyclops/lib/instagram.py', reloading
-2017-01-25 15:35:42,905 INFO _internal  * Restarting with stat
-2017-01-25 15:35:43,101 DEBUG cyclops debug
-2017-01-25 15:35:43,101 INFO cyclops info
-2017-01-25 15:35:43,113 WARNING _internal  * Debugger is active!
-2017-01-25 15:35:43,136 INFO _internal  * Debugger pin code: 575-122-413
-2017-01-25 15:35:58,244 INFO _internal  * Detected change in '/Users/brumble/Documents/stuff/cyclops/lib/instagram.py', reloading
-2017-01-25 15:35:58,258 INFO _internal  * Restarting with stat
-2017-01-25 15:35:58,463 DEBUG cyclops debug
-2017-01-25 15:35:58,463 INFO cyclops info
-2017-01-25 15:35:58,475 WARNING _internal  * Debugger is active!
-2017-01-25 15:35:58,499 INFO _internal  * Debugger pin code: 575-122-413
-2017-01-25 15:36:07,567 INFO _internal  * Detected change in '/Users/brumble/Documents/stuff/cyclops/lib/instagram.py', reloading
-2017-01-25 15:36:07,581 INFO _internal  * Restarting with stat
-2017-01-25 15:36:07,714 DEBUG cyclops debug
-2017-01-25 15:36:07,714 INFO cyclops info
-2017-01-25 15:36:07,721 WARNING _internal  * Debugger is active!
-2017-01-25 15:36:07,743 INFO _internal  * Debugger pin code: 575-122-413
-2017-01-25 15:36:08,762 INFO _internal  * Detected change in '/Users/brumble/Documents/stuff/cyclops/lib/instagram.py', reloading
-2017-01-25 15:36:08,778 INFO _internal  * Restarting with stat
-2017-01-25 15:36:08,912 DEBUG cyclops debug
-2017-01-25 15:36:08,912 INFO cyclops info
-2017-01-25 15:36:08,919 WARNING _internal  * Debugger is active!
-2017-01-25 15:36:08,936 INFO _internal  * Debugger pin code: 575-122-413
-2017-01-25 15:47:54,036 INFO _internal  * Detected change in '/Users/brumble/Documents/stuff/cyclops/lib/instagram.py', reloading
-2017-01-25 15:47:54,070 INFO _internal  * Restarting with stat
-2017-01-25 15:47:54,322 DEBUG cyclops debug
-2017-01-25 15:47:54,322 INFO cyclops info
-2017-01-25 15:47:54,335 WARNING _internal  * Debugger is active!
-2017-01-25 15:47:54,361 INFO _internal  * Debugger pin code: 575-122-413
-2017-01-25 15:50:07,617 INFO _internal 127.0.0.1 - - [25/Jan/2017 15:50:07] "GET / HTTP/1.1" 200 -
-2017-01-25 15:52:22,347 INFO _internal  * Detected change in '/Users/brumble/Documents/stuff/cyclops/lib/instagram.py', reloading
-2017-01-25 15:52:22,382 INFO _internal  * Restarting with stat
-2017-01-25 15:52:22,587 DEBUG cyclops debug
-2017-01-25 15:52:22,587 INFO cyclops info
-2017-01-25 15:52:22,599 WARNING _internal  * Debugger is active!
-2017-01-25 15:52:22,621 INFO _internal  * Debugger pin code: 575-122-413
-2017-01-25 15:52:29,691 INFO _internal  * Detected change in '/Users/brumble/Documents/stuff/cyclops/lib/instagram.py', reloading
-2017-01-25 15:52:29,709 INFO _internal  * Restarting with stat
-2017-01-25 15:52:29,898 DEBUG cyclops debug
-2017-01-25 15:52:29,899 INFO cyclops info
-2017-01-25 15:52:29,907 WARNING _internal  * Debugger is active!
-2017-01-25 15:52:29,921 INFO _internal  * Debugger pin code: 575-122-413
-2017-01-25 16:02:01,969 INFO _internal  * Detected change in '/Users/brumble/Documents/stuff/cyclops/lib/instagram.py', reloading
-2017-01-25 16:02:02,005 INFO _internal  * Restarting with stat
-2017-01-25 16:02:02,247 DEBUG cyclops debug
-2017-01-25 16:02:02,247 INFO cyclops info
-2017-01-25 16:02:02,260 WARNING _internal  * Debugger is active!
-2017-01-25 16:02:02,285 INFO _internal  * Debugger pin code: 575-122-413
-2017-01-25 16:03:23,885 INFO _internal  * Detected change in '/Users/brumble/Documents/stuff/cyclops/lib/instagram.py', reloading
-2017-01-25 16:03:23,941 INFO _internal  * Restarting with stat
-2017-01-25 16:03:24,184 DEBUG cyclops debug
-2017-01-25 16:03:24,184 INFO cyclops info
-2017-01-25 16:03:24,200 WARNING _internal  * Debugger is active!
-2017-01-25 16:03:24,224 INFO _internal  * Debugger pin code: 575-122-413
-2017-01-25 16:03:40,358 INFO _internal  * Detected change in '/Users/brumble/Documents/stuff/cyclops/lib/instagram.py', reloading
-2017-01-25 16:03:40,382 INFO _internal  * Restarting with stat
-2017-01-25 16:03:40,596 DEBUG cyclops debug
-2017-01-25 16:03:40,596 INFO cyclops info
-2017-01-25 16:03:40,607 WARNING _internal  * Debugger is active!
-2017-01-25 16:03:40,628 INFO _internal  * Debugger pin code: 575-122-413
-2017-01-25 16:04:03,811 INFO _internal  * Detected change in '/Users/brumble/Documents/stuff/cyclops/lib/instagram.py', reloading
-2017-01-25 16:04:03,826 INFO _internal  * Restarting with stat
-2017-01-25 16:04:04,021 DEBUG cyclops debug
-2017-01-25 16:04:04,021 INFO cyclops info
-2017-01-25 16:04:04,032 WARNING _internal  * Debugger is active!
-2017-01-25 16:04:04,056 INFO _internal  * Debugger pin code: 575-122-413
-2017-01-25 16:05:16,586 INFO _internal  * Detected change in '/Users/brumble/Documents/stuff/cyclops/lib/instagram.py', reloading
-2017-01-25 16:05:16,621 INFO _internal  * Restarting with stat
-2017-01-25 16:05:16,838 DEBUG cyclops debug
-2017-01-25 16:05:16,838 INFO cyclops info
-2017-01-25 16:05:16,852 WARNING _internal  * Debugger is active!
-2017-01-25 16:05:16,879 INFO _internal  * Debugger pin code: 575-122-413
-2017-01-25 16:05:20,922 INFO _internal  * Detected change in '/Users/brumble/Documents/stuff/cyclops/lib/instagram.py', reloading
-2017-01-25 16:05:20,935 INFO _internal  * Restarting with stat
-2017-01-25 16:05:21,061 DEBUG cyclops debug
-2017-01-25 16:05:21,061 INFO cyclops info
-2017-01-25 16:05:21,070 WARNING _internal  * Debugger is active!
-2017-01-25 16:05:21,088 INFO _internal  * Debugger pin code: 575-122-413
-2017-01-25 16:05:29,151 INFO _internal  * Detected change in '/Users/brumble/Documents/stuff/cyclops/lib/instagram.py', reloading
-2017-01-25 16:05:29,165 INFO _internal  * Restarting with stat
-2017-01-25 16:05:29,314 DEBUG cyclops debug
-2017-01-25 16:05:29,314 INFO cyclops info
-2017-01-25 16:05:29,321 WARNING _internal  * Debugger is active!
-2017-01-25 16:05:29,338 INFO _internal  * Debugger pin code: 575-122-413
-2017-01-25 16:05:53,516 INFO _internal  * Detected change in '/Users/brumble/Documents/stuff/cyclops/app.py', reloading
-2017-01-25 16:05:53,533 INFO _internal  * Restarting with stat
-2017-01-25 16:05:53,732 DEBUG cyclops debug
-2017-01-25 16:05:53,732 INFO cyclops info
-2017-01-25 16:05:53,742 WARNING _internal  * Debugger is active!
-2017-01-25 16:05:53,780 INFO _internal  * Debugger pin code: 575-122-413
-2017-01-25 16:06:01,849 INFO _internal  * Detected change in '/Users/brumble/Documents/stuff/cyclops/app.py', reloading
-2017-01-25 16:06:01,864 INFO _internal  * Restarting with stat
-2017-01-25 16:06:02,054 DEBUG cyclops debug
-2017-01-25 16:06:02,054 INFO cyclops info
-2017-01-25 16:06:02,065 WARNING _internal  * Debugger is active!
-2017-01-25 16:06:02,083 INFO _internal  * Debugger pin code: 575-122-413
-2017-01-25 16:19:26,615 INFO _internal  * Detected change in '/Users/brumble/Documents/stuff/cyclops/app.py', reloading
-2017-01-25 16:19:26,653 INFO _internal  * Restarting with stat
-2017-01-25 16:19:26,884 DEBUG cyclops debug
-2017-01-25 16:19:26,885 INFO cyclops info
-2017-01-25 16:46:06,276 DEBUG cyclops debug
-2017-01-25 16:46:06,277 INFO cyclops info
-2017-01-25 16:46:15,442 DEBUG cyclops debug
-2017-01-25 16:46:15,442 INFO cyclops info
-2017-01-25 16:46:15,443 ERROR cyclops error
-2017-01-25 16:47:53,310 DEBUG cyclops debug
-2017-01-25 16:47:53,310 INFO cyclops info
-2017-01-25 16:47:53,310 ERROR cyclops error
-2017-01-25 16:49:06,894 DEBUG cyclops debug
-2017-01-25 16:49:06,895 INFO cyclops info
-2017-01-25 16:49:06,895 ERROR cyclops error
-2017-01-25 16:54:36,664 DEBUG cyclops debug
-2017-01-25 16:54:36,664 INFO cyclops info
-2017-01-25 16:54:36,664 ERROR cyclops error
-2017-01-25 16:55:06,216 DEBUG cyclops debug
-2017-01-25 16:55:06,216 INFO cyclops info
-2017-01-25 16:55:06,216 ERROR cyclops error
-2017-01-25 16:55:06,229 INFO _internal  * Running on http://localhost:5000/ (Press CTRL+C to quit)
-2017-01-25 16:55:06,233 INFO _internal  * Restarting with stat
-2017-01-25 16:55:06,416 DEBUG cyclops debug
-2017-01-25 16:55:06,416 INFO cyclops info
-2017-01-25 16:55:06,416 ERROR cyclops error
-2017-01-25 16:55:06,422 WARNING _internal  * Debugger is active!
-2017-01-25 16:55:06,460 INFO _internal  * Debugger pin code: 575-122-413
-2017-01-28 10:28:07,957 DEBUG cyclops debug
-2017-01-28 10:28:07,957 INFO cyclops info
-2017-01-28 10:28:07,957 ERROR cyclops error
-2017-01-28 10:28:07,966 INFO _internal  * Running on http://localhost:5000/ (Press CTRL+C to quit)
-2017-01-28 10:28:07,969 INFO _internal  * Restarting with stat
-2017-01-28 10:28:08,056 DEBUG cyclops debug
-2017-01-28 10:28:08,056 INFO cyclops info
-2017-01-28 10:28:08,056 ERROR cyclops error
-2017-01-28 10:28:08,061 WARNING _internal  * Debugger is active!
-2017-01-28 10:28:08,072 INFO _internal  * Debugger pin code: 322-723-444
-2017-01-28 10:28:12,775 INFO _internal 127.0.0.1 - - [28/Jan/2017 10:28:12] "GET / HTTP/1.1" 200 -
-2017-01-28 10:28:12,914 INFO _internal 127.0.0.1 - - [28/Jan/2017 10:28:12] "GET /favicon.ico HTTP/1.1" 404 -
-2017-01-28 10:31:20,803 DEBUG cyclops debug
-2017-01-28 10:31:20,803 INFO cyclops info
-2017-01-28 10:31:20,803 ERROR cyclops error
-2017-01-28 10:31:20,990 INFO _internal  * Detected change in '/Users/benji/Documents/development/code/cyclops/lib/cyclops.py', reloading
-2017-01-28 10:31:21,005 INFO _internal  * Restarting with stat
-2017-01-28 10:31:21,098 DEBUG cyclops debug
-2017-01-28 10:31:21,098 INFO cyclops info
-2017-01-28 10:31:21,099 ERROR cyclops error
-2017-01-28 10:35:33,646 INFO _internal  * Running on http://localhost:5000/ (Press CTRL+C to quit)
-2017-01-28 10:35:33,647 INFO _internal  * Restarting with stat
-2017-01-28 10:35:33,746 WARNING _internal  * Debugger is active!
-2017-01-28 10:35:33,755 INFO _internal  * Debugger pin code: 322-723-444
-2017-01-28 10:36:03,965 DEBUG cyclops debug
-2017-01-28 10:36:03,965 INFO cyclops info
-2017-01-28 10:36:03,965 ERROR cyclops error
-2017-01-28 10:36:03,971 INFO _internal  * Running on http://localhost:5000/ (Press CTRL+C to quit)
-2017-01-28 10:36:03,972 INFO _internal  * Restarting with stat
-2017-01-28 10:36:04,062 DEBUG cyclops debug
-2017-01-28 10:36:04,062 INFO cyclops info
-2017-01-28 10:36:04,062 ERROR cyclops error
-2017-01-28 10:36:04,067 WARNING _internal  * Debugger is active!
-2017-01-28 10:36:04,076 INFO _internal  * Debugger pin code: 322-723-444
-2017-01-28 10:36:05,471 INFO _internal 127.0.0.1 - - [28/Jan/2017 10:36:05] "GET / HTTP/1.1" 304 -
-2017-01-28 10:36:06,684 INFO _internal 127.0.0.1 - - [28/Jan/2017 10:36:06] "GET / HTTP/1.1" 304 -
-2017-01-28 10:37:06,367 INFO _internal  * Detected change in '/Users/benji/Documents/development/code/cyclops/lib/cyclops.py', reloading
-2017-01-28 10:37:06,381 INFO _internal  * Restarting with stat
-2017-01-28 10:37:06,491 DEBUG cyclops debug
-2017-01-28 10:37:06,491 INFO cyclops info
-2017-01-28 10:37:06,491 ERROR cyclops error
-2017-01-28 10:37:06,498 WARNING _internal  * Debugger is active!
-2017-01-28 10:37:06,509 INFO _internal  * Debugger pin code: 322-723-444
-2017-01-28 10:42:12,899 INFO _internal  * Detected change in '/Users/benji/Documents/development/code/cyclops/lib/database.py', reloading
-2017-01-28 10:42:12,909 INFO _internal  * Restarting with stat
-2017-01-28 10:42:12,999 DEBUG cyclops debug
-2017-01-28 10:42:13,000 INFO cyclops info
-2017-01-28 10:42:13,000 ERROR cyclops error
-2017-01-28 10:42:13,004 WARNING _internal  * Debugger is active!
-2017-01-28 10:42:13,015 INFO _internal  * Debugger pin code: 322-723-444
-2017-01-28 10:45:59,043 INFO _internal  * Detected change in '/Users/benji/Documents/development/code/cyclops/lib/database.py', reloading
-2017-01-28 10:45:59,054 INFO _internal  * Restarting with stat
-2017-01-28 10:45:59,150 DEBUG cyclops debug
-2017-01-28 10:45:59,151 INFO cyclops info
-2017-01-28 10:45:59,151 ERROR cyclops error
-2017-01-28 10:45:59,157 WARNING _internal  * Debugger is active!
-2017-01-28 10:45:59,167 INFO _internal  * Debugger pin code: 322-723-444
-2017-01-28 10:46:42,371 INFO _internal  * Detected change in '/Users/benji/Documents/development/code/cyclops/lib/database.py', reloading
-2017-01-28 10:46:42,381 INFO _internal  * Restarting with stat
-2017-01-28 10:46:42,475 DEBUG cyclops debug
-2017-01-28 10:46:42,475 INFO cyclops info
-2017-01-28 10:46:42,475 ERROR cyclops error
-2017-01-28 10:46:42,480 WARNING _internal  * Debugger is active!
-2017-01-28 10:46:42,491 INFO _internal  * Debugger pin code: 322-723-444
-2017-01-28 10:47:00,584 INFO _internal  * Detected change in '/Users/benji/Documents/development/code/cyclops/lib/database.py', reloading
-2017-01-28 10:47:00,596 INFO _internal  * Restarting with stat
-2017-01-28 10:47:00,687 DEBUG cyclops debug
-2017-01-28 10:47:00,687 INFO cyclops info
-2017-01-28 10:47:00,687 ERROR cyclops error
-2017-01-28 10:47:00,692 WARNING _internal  * Debugger is active!
-2017-01-28 10:47:00,702 INFO _internal  * Debugger pin code: 322-723-444
-2017-01-28 10:47:35,864 INFO _internal  * Detected change in '/Users/benji/Documents/development/code/cyclops/lib/database.py', reloading
-2017-01-28 10:47:35,874 INFO _internal  * Restarting with stat
-2017-01-28 10:47:35,969 DEBUG cyclops debug
-2017-01-28 10:47:35,969 INFO cyclops info
-2017-01-28 10:47:35,969 ERROR cyclops error
-2017-01-28 10:47:35,975 WARNING _internal  * Debugger is active!
-2017-01-28 10:47:35,989 INFO _internal  * Debugger pin code: 322-723-444
-2017-01-28 10:54:22,725 INFO _internal  * Detected change in '/Users/benji/Documents/development/code/cyclops/lib/database.py', reloading
-2017-01-28 10:54:22,735 INFO _internal  * Restarting with stat
-2017-01-28 10:54:22,827 DEBUG cyclops debug
-2017-01-28 10:54:22,828 INFO cyclops info
-2017-01-28 10:54:22,828 ERROR cyclops error
-2017-01-28 10:54:22,832 WARNING _internal  * Debugger is active!
-2017-01-28 10:54:22,842 INFO _internal  * Debugger pin code: 322-723-444
-2017-01-28 11:11:40,778 DEBUG cyclops debug
-2017-01-28 11:11:40,778 INFO cyclops info
-2017-01-28 11:11:40,778 ERROR cyclops error
-2017-01-28 11:11:40,785 INFO _internal  * Running on http://localhost:5000/ (Press CTRL+C to quit)
-2017-01-28 11:11:40,786 INFO _internal  * Restarting with stat
-2017-01-28 11:11:40,873 DEBUG cyclops debug
-2017-01-28 11:11:40,873 INFO cyclops info
-2017-01-28 11:11:40,873 ERROR cyclops error
-2017-01-28 11:11:40,878 WARNING _internal  * Debugger is active!
-2017-01-28 11:11:40,887 INFO _internal  * Debugger pin code: 296-103-283
-2017-01-28 11:12:55,236 INFO _internal  * Detected change in '/Users/benji/Documents/development/code/cyclops/app.py', reloading
-2017-01-28 11:12:55,246 INFO _internal  * Restarting with stat
-2017-01-28 11:14:00,009 DEBUG cyclops debug
-2017-01-28 11:14:00,009 INFO cyclops info
-2017-01-28 11:14:00,009 ERROR cyclops error
-2017-01-28 11:14:00,016 INFO _internal  * Running on http://localhost:5000/ (Press CTRL+C to quit)
-2017-01-28 11:14:00,018 INFO _internal  * Restarting with stat
-2017-01-28 11:14:00,112 DEBUG cyclops debug
-2017-01-28 11:14:00,112 INFO cyclops info
-2017-01-28 11:14:00,112 ERROR cyclops error
-2017-01-28 11:14:00,117 WARNING _internal  * Debugger is active!
-2017-01-28 11:14:00,126 INFO _internal  * Debugger pin code: 296-103-283
-2017-01-28 14:32:05,860 INFO _internal  * Detected change in '/Users/benji/Documents/development/code/cyclops/lib/database.py', reloading
-2017-01-28 14:32:05,871 INFO _internal  * Restarting with stat
-2017-01-28 14:32:05,974 DEBUG cyclops debug
-2017-01-28 14:32:05,974 INFO cyclops info
-2017-01-28 14:32:05,975 ERROR cyclops error
-2017-01-28 14:32:05,982 WARNING _internal  * Debugger is active!
-2017-01-28 14:32:05,995 INFO _internal  * Debugger pin code: 296-103-283
-2017-01-28 14:32:30,135 INFO _internal  * Detected change in '/Users/benji/Documents/development/code/cyclops/lib/database.py', reloading
-2017-01-28 14:32:30,145 INFO _internal  * Restarting with stat
-2017-01-28 14:32:30,239 DEBUG cyclops debug
-2017-01-28 14:32:30,239 INFO cyclops info
-2017-01-28 14:32:30,239 ERROR cyclops error
-2017-01-28 14:32:30,246 WARNING _internal  * Debugger is active!
-2017-01-28 14:32:30,257 INFO _internal  * Debugger pin code: 296-103-283
-2017-01-28 14:32:34,280 INFO _internal  * Detected change in '/Users/benji/Documents/development/code/cyclops/lib/database.py', reloading
-2017-01-28 14:32:34,292 INFO _internal  * Restarting with stat
-2017-01-28 14:32:34,384 DEBUG cyclops debug
-2017-01-28 14:32:34,384 INFO cyclops info
-2017-01-28 14:32:34,384 ERROR cyclops error
-2017-01-28 14:32:34,389 WARNING _internal  * Debugger is active!
-2017-01-28 14:32:34,399 INFO _internal  * Debugger pin code: 296-103-283
-2017-01-28 14:32:40,440 INFO _internal  * Detected change in '/Users/benji/Documents/development/code/cyclops/lib/database.py', reloading
-2017-01-28 14:32:40,451 INFO _internal  * Restarting with stat
-2017-01-28 14:32:40,541 DEBUG cyclops debug
-2017-01-28 14:32:40,541 INFO cyclops info
-2017-01-28 14:32:40,541 ERROR cyclops error
-2017-01-28 14:32:40,546 WARNING _internal  * Debugger is active!
-2017-01-28 14:32:40,557 INFO _internal  * Debugger pin code: 296-103-283
-2017-01-28 14:32:45,595 INFO _internal  * Detected change in '/Users/benji/Documents/development/code/cyclops/lib/database.py', reloading
-2017-01-28 14:32:45,609 INFO _internal  * Restarting with stat
-2017-01-28 14:32:45,708 DEBUG cyclops debug
-2017-01-28 14:32:45,708 INFO cyclops info
-2017-01-28 14:32:45,708 ERROR cyclops error
-2017-01-28 14:32:45,713 WARNING _internal  * Debugger is active!
-2017-01-28 14:32:45,725 INFO _internal  * Debugger pin code: 296-103-283
-2017-01-28 14:32:55,785 INFO _internal  * Detected change in '/Users/benji/Documents/development/code/cyclops/lib/database.py', reloading
-2017-01-28 14:32:55,797 INFO _internal  * Restarting with stat
-2017-01-28 14:32:55,903 DEBUG cyclops debug
-2017-01-28 14:32:55,903 INFO cyclops info
-2017-01-28 14:32:55,903 ERROR cyclops error
-2017-01-28 14:32:55,909 WARNING _internal  * Debugger is active!
-2017-01-28 14:32:55,920 INFO _internal  * Debugger pin code: 296-103-283
-2017-01-28 14:33:12,010 INFO _internal  * Detected change in '/Users/benji/Documents/development/code/cyclops/lib/database.py', reloading
-2017-01-28 14:33:12,022 INFO _internal  * Restarting with stat
-2017-01-28 14:33:12,118 DEBUG cyclops debug
-2017-01-28 14:33:12,118 INFO cyclops info
-2017-01-28 14:33:12,118 ERROR cyclops error
-2017-01-28 14:33:12,125 WARNING _internal  * Debugger is active!
-2017-01-28 14:33:12,135 INFO _internal  * Debugger pin code: 296-103-283
-2017-01-28 14:33:22,178 INFO _internal  * Detected change in '/Users/benji/Documents/development/code/cyclops/lib/database.py', reloading
-2017-01-28 14:33:22,188 INFO _internal  * Restarting with stat
-2017-01-28 14:33:22,277 DEBUG cyclops debug
-2017-01-28 14:33:22,277 INFO cyclops info
-2017-01-28 14:33:22,277 ERROR cyclops error
-2017-01-28 14:33:22,283 WARNING _internal  * Debugger is active!
-2017-01-28 14:33:22,293 INFO _internal  * Debugger pin code: 296-103-283
-2017-01-28 14:33:33,356 INFO _internal  * Detected change in '/Users/benji/Documents/development/code/cyclops/lib/database.py', reloading
-2017-01-28 14:33:33,366 INFO _internal  * Restarting with stat
-2017-01-28 14:33:33,453 DEBUG cyclops debug
-2017-01-28 14:33:33,453 INFO cyclops info
-2017-01-28 14:33:33,453 ERROR cyclops error
-2017-01-28 14:33:33,458 WARNING _internal  * Debugger is active!
-2017-01-28 14:33:33,467 INFO _internal  * Debugger pin code: 296-103-283
-2017-01-28 14:34:23,720 INFO _internal  * Detected change in '/Users/benji/Documents/development/code/cyclops/lib/database.py', reloading
-2017-01-28 14:34:23,730 INFO _internal  * Restarting with stat
-2017-01-28 14:34:23,819 DEBUG cyclops debug
-2017-01-28 14:34:23,819 INFO cyclops info
-2017-01-28 14:34:23,819 ERROR cyclops error
-2017-01-28 14:34:23,824 WARNING _internal  * Debugger is active!
-2017-01-28 14:34:23,834 INFO _internal  * Debugger pin code: 296-103-283
-2017-01-28 14:34:36,911 INFO _internal  * Detected change in '/Users/benji/Documents/development/code/cyclops/lib/database.py', reloading
-2017-01-28 14:34:36,924 INFO _internal  * Restarting with stat
-2017-01-28 14:34:37,014 DEBUG cyclops debug
-2017-01-28 14:34:37,014 INFO cyclops info
-2017-01-28 14:34:37,014 ERROR cyclops error
-2017-01-28 14:34:37,020 WARNING _internal  * Debugger is active!
-2017-01-28 14:34:37,030 INFO _internal  * Debugger pin code: 296-103-283
-2017-01-28 14:34:45,075 INFO _internal  * Detected change in '/Users/benji/Documents/development/code/cyclops/lib/database.py', reloading
-2017-01-28 14:34:45,084 INFO _internal  * Restarting with stat
-2017-01-28 14:34:45,178 DEBUG cyclops debug
-2017-01-28 14:34:45,178 INFO cyclops info
-2017-01-28 14:34:45,178 ERROR cyclops error
-2017-01-28 14:34:45,184 WARNING _internal  * Debugger is active!
-2017-01-28 14:34:45,194 INFO _internal  * Debugger pin code: 296-103-283
-2017-01-28 14:39:48,629 INFO _internal  * Detected change in '/Users/benji/Documents/development/code/cyclops/lib/cyclops.py', reloading
-2017-01-28 14:39:48,639 INFO _internal  * Restarting with stat
-2017-01-28 14:39:48,727 DEBUG cyclops debug
-2017-01-28 14:39:48,727 INFO cyclops info
-2017-01-28 14:39:48,727 ERROR cyclops error
-2017-01-28 14:39:48,732 WARNING _internal  * Debugger is active!
-2017-01-28 14:39:48,741 INFO _internal  * Debugger pin code: 296-103-283
-2017-01-28 14:40:33,970 INFO _internal  * Detected change in '/Users/benji/Documents/development/code/cyclops/lib/cyclops.py', reloading
-2017-01-28 14:40:33,983 INFO _internal  * Restarting with stat
-2017-01-28 14:40:34,071 DEBUG cyclops debug
-2017-01-28 14:40:34,072 INFO cyclops info
-2017-01-28 14:40:34,072 ERROR cyclops error
-2017-01-28 14:40:34,076 WARNING _internal  * Debugger is active!
-2017-01-28 14:40:34,088 INFO _internal  * Debugger pin code: 296-103-283
-2017-01-28 14:40:39,124 INFO _internal  * Detected change in '/Users/benji/Documents/development/code/cyclops/lib/cyclops.py', reloading
-2017-01-28 14:40:39,134 INFO _internal  * Restarting with stat
-2017-01-28 14:40:39,227 DEBUG cyclops debug
-2017-01-28 14:40:39,228 INFO cyclops info
-2017-01-28 14:40:39,228 ERROR cyclops error
-2017-01-28 14:40:39,232 WARNING _internal  * Debugger is active!
-2017-01-28 14:40:39,243 INFO _internal  * Debugger pin code: 296-103-283
-2017-01-28 14:46:26,856 INFO _internal  * Detected change in '/Users/benji/Documents/development/code/cyclops/lib/cyclops.py', reloading
-2017-01-28 14:46:26,870 INFO _internal  * Restarting with stat
-2017-01-28 14:46:26,967 DEBUG cyclops debug
-2017-01-28 14:46:26,967 INFO cyclops info
-2017-01-28 14:46:26,967 ERROR cyclops error
-2017-01-28 14:46:26,973 WARNING _internal  * Debugger is active!
-2017-01-28 14:46:26,982 INFO _internal  * Debugger pin code: 296-103-283
-2017-01-28 14:46:38,038 INFO _internal  * Detected change in '/Users/benji/Documents/development/code/cyclops/lib/auth.py', reloading
-2017-01-28 14:46:38,048 INFO _internal  * Restarting with stat
-2017-01-28 14:46:38,137 DEBUG cyclops debug
-2017-01-28 14:46:38,137 INFO cyclops info
-2017-01-28 14:46:38,137 ERROR cyclops error
-2017-01-28 14:46:38,141 WARNING _internal  * Debugger is active!
-2017-01-28 14:46:38,151 INFO _internal  * Debugger pin code: 296-103-283
-2017-01-28 14:47:25,384 INFO _internal  * Detected change in '/Users/benji/Documents/development/code/cyclops/lib/auth.py', reloading
-2017-01-28 14:47:25,395 INFO _internal  * Restarting with stat
-2017-01-28 14:47:25,485 DEBUG cyclops debug
-2017-01-28 14:47:25,485 INFO cyclops info
-2017-01-28 14:47:25,485 ERROR cyclops error
-2017-01-28 14:47:25,490 WARNING _internal  * Debugger is active!
-2017-01-28 14:47:25,499 INFO _internal  * Debugger pin code: 296-103-283
-2017-01-28 14:47:34,547 INFO _internal  * Detected change in '/Users/benji/Documents/development/code/cyclops/lib/auth.py', reloading
-2017-01-28 14:47:34,557 INFO _internal  * Restarting with stat
-2017-01-28 14:47:34,644 DEBUG cyclops debug
-2017-01-28 14:47:34,644 INFO cyclops info
-2017-01-28 14:47:34,644 ERROR cyclops error
-2017-01-28 14:47:34,649 WARNING _internal  * Debugger is active!
-2017-01-28 14:47:34,658 INFO _internal  * Debugger pin code: 296-103-283
-2017-01-28 14:47:39,696 INFO _internal  * Detected change in '/Users/benji/Documents/development/code/cyclops/lib/auth.py', reloading
-2017-01-28 14:47:39,706 INFO _internal  * Restarting with stat
-2017-01-28 14:47:39,799 DEBUG cyclops debug
-2017-01-28 14:47:39,799 INFO cyclops info
-2017-01-28 14:47:39,800 ERROR cyclops error
-2017-01-28 14:47:39,806 WARNING _internal  * Debugger is active!
-2017-01-28 14:47:39,816 INFO _internal  * Debugger pin code: 296-103-283
-2017-01-28 14:47:42,842 INFO _internal  * Detected change in '/Users/benji/Documents/development/code/cyclops/lib/auth.py', reloading
-2017-01-28 14:47:42,854 INFO _internal  * Restarting with stat
-2017-01-28 14:47:42,943 DEBUG cyclops debug
-2017-01-28 14:47:42,943 INFO cyclops info
-2017-01-28 14:47:42,943 ERROR cyclops error
-2017-01-28 14:47:42,948 WARNING _internal  * Debugger is active!
-2017-01-28 14:47:42,959 INFO _internal  * Debugger pin code: 296-103-283
-2017-01-28 14:47:59,048 INFO _internal  * Detected change in '/Users/benji/Documents/development/code/cyclops/lib/auth.py', reloading
-2017-01-28 14:47:59,058 INFO _internal  * Restarting with stat
-2017-01-28 14:47:59,153 DEBUG cyclops debug
-2017-01-28 14:47:59,153 INFO cyclops info
-2017-01-28 14:47:59,154 ERROR cyclops error
-2017-01-28 14:47:59,159 WARNING _internal  * Debugger is active!
-2017-01-28 14:47:59,170 INFO _internal  * Debugger pin code: 296-103-283
-2017-01-28 14:48:16,262 INFO _internal  * Detected change in '/Users/benji/Documents/development/code/cyclops/lib/cyclops.py', reloading
-2017-01-28 14:48:16,272 INFO _internal  * Restarting with stat
-2017-01-28 14:49:13,133 DEBUG cyclops debug
-2017-01-28 14:49:13,133 INFO cyclops info
-2017-01-28 14:49:13,134 ERROR cyclops error
-2017-01-28 14:49:20,468 DEBUG cyclops debug
-2017-01-28 14:49:20,468 INFO cyclops info
-2017-01-28 14:49:20,468 ERROR cyclops error
-2017-01-28 14:49:50,772 DEBUG cyclops debug
-2017-01-28 14:49:50,772 INFO cyclops info
-2017-01-28 14:49:50,772 ERROR cyclops error
-2017-01-28 14:50:21,453 DEBUG cyclops debug
-2017-01-28 14:50:21,453 INFO cyclops info
-2017-01-28 14:50:21,453 ERROR cyclops error
-2017-01-28 14:51:12,547 DEBUG cyclops debug
-2017-01-28 14:51:12,548 INFO cyclops info
-2017-01-28 14:51:12,548 ERROR cyclops error
-2017-01-28 14:54:22,524 DEBUG cyclops debug
-2017-01-28 14:54:22,524 INFO cyclops info
-2017-01-28 14:54:22,524 ERROR cyclops error
-2017-01-28 14:54:36,751 DEBUG cyclops debug
-2017-01-28 14:54:36,751 INFO cyclops info
-2017-01-28 14:54:36,751 ERROR cyclops error
-2017-01-28 14:55:03,459 DEBUG cyclops debug
-2017-01-28 14:55:03,460 INFO cyclops info
-2017-01-28 14:55:03,460 ERROR cyclops error
+2017-01-30 19:41:26,924 DEBUG cyclops debug
+2017-01-30 19:41:26,924 INFO cyclops info
+2017-01-30 19:41:26,924 ERROR cyclops error
+2017-01-30 19:41:26,940 INFO _internal  * Running on http://localhost:5000/ (Press CTRL+C to quit)
+2017-01-30 19:41:26,944 INFO _internal  * Restarting with stat
+2017-01-30 19:41:27,039 DEBUG cyclops debug
+2017-01-30 19:41:27,039 INFO cyclops info
+2017-01-30 19:41:27,039 ERROR cyclops error
+2017-01-30 19:41:27,045 WARNING _internal  * Debugger is active!
+2017-01-30 19:41:27,061 INFO _internal  * Debugger pin code: 296-103-283
+2017-01-30 19:42:44,057 INFO _internal 127.0.0.1 - - [30/Jan/2017 19:42:44] "GET / HTTP/1.1" 200 -
+2017-01-30 19:42:44,198 INFO _internal 127.0.0.1 - - [30/Jan/2017 19:42:44] "GET /favicon.ico HTTP/1.1" 404 -
+2017-01-30 19:42:45,235 INFO _internal 127.0.0.1 - - [30/Jan/2017 19:42:45] "GET /login HTTP/1.1" 302 -
+2017-01-30 19:42:48,107 INFO _internal 127.0.0.1 - - [30/Jan/2017 19:42:48] "GET /callback?code=f976b6f1602a437f84401826fb448b4e HTTP/1.1" 200 -
+2017-01-30 19:43:09,695 DEBUG cyclops debug
+2017-01-30 19:43:09,695 INFO cyclops info
+2017-01-30 19:43:09,695 ERROR cyclops error
+2017-01-30 19:43:10,555 INFO _internal  * Detected change in '/Users/benji/Documents/development/code/cyclops/lib/cyclops.py', reloading
+2017-01-30 19:43:10,565 INFO _internal  * Restarting with stat
+2017-01-30 19:43:10,655 DEBUG cyclops debug
+2017-01-30 19:43:10,655 INFO cyclops info
+2017-01-30 19:43:10,655 ERROR cyclops error
+2017-01-30 19:43:10,660 WARNING _internal  * Debugger is active!
+2017-01-30 19:43:10,670 INFO _internal  * Debugger pin code: 296-103-283
+2017-01-30 19:43:19,272 DEBUG cyclops debug
+2017-01-30 19:43:19,272 INFO cyclops info
+2017-01-30 19:43:19,272 ERROR cyclops error
+2017-01-30 19:43:19,716 INFO _internal  * Detected change in '/Users/benji/Documents/development/code/cyclops/lib/cyclops.py', reloading
+2017-01-30 19:43:19,727 INFO _internal  * Restarting with stat
+2017-01-30 19:43:19,823 DEBUG cyclops debug
+2017-01-30 19:43:19,823 INFO cyclops info
+2017-01-30 19:43:19,823 ERROR cyclops error
+2017-01-30 19:43:19,828 WARNING _internal  * Debugger is active!
+2017-01-30 19:43:19,839 INFO _internal  * Debugger pin code: 296-103-283
+2017-01-30 19:43:27,377 DEBUG cyclops debug
+2017-01-30 19:43:27,377 INFO cyclops info
+2017-01-30 19:43:27,377 ERROR cyclops error
+2017-01-30 19:43:27,888 INFO _internal  * Detected change in '/Users/benji/Documents/development/code/cyclops/lib/cyclops.py', reloading
+2017-01-30 19:43:27,898 INFO _internal  * Restarting with stat
+2017-01-30 19:43:27,990 DEBUG cyclops debug
+2017-01-30 19:43:27,990 INFO cyclops info
+2017-01-30 19:43:27,991 ERROR cyclops error
+2017-01-30 19:43:27,995 WARNING _internal  * Debugger is active!
+2017-01-30 19:43:28,005 INFO _internal  * Debugger pin code: 296-103-283
+2017-01-30 19:44:21,308 DEBUG cyclops debug
+2017-01-30 19:44:21,308 INFO cyclops info
+2017-01-30 19:44:21,308 ERROR cyclops error
+2017-01-30 19:44:22,257 INFO _internal  * Detected change in '/Users/benji/Documents/development/code/cyclops/lib/cyclops.py', reloading
+2017-01-30 19:44:22,267 INFO _internal  * Restarting with stat
+2017-01-30 19:44:22,364 DEBUG cyclops debug
+2017-01-30 19:44:22,364 INFO cyclops info
+2017-01-30 19:44:22,364 ERROR cyclops error
+2017-01-30 19:44:22,369 WARNING _internal  * Debugger is active!
+2017-01-30 19:44:22,380 INFO _internal  * Debugger pin code: 296-103-283
+2017-01-30 19:44:27,357 DEBUG cyclops debug
+2017-01-30 19:44:27,357 INFO cyclops info
+2017-01-30 19:44:27,358 ERROR cyclops error
+2017-01-30 19:44:27,418 INFO _internal  * Detected change in '/Users/benji/Documents/development/code/cyclops/lib/cyclops.py', reloading
+2017-01-30 19:44:27,428 INFO _internal  * Restarting with stat
+2017-01-30 19:44:27,522 DEBUG cyclops debug
+2017-01-30 19:44:27,522 INFO cyclops info
+2017-01-30 19:44:27,522 ERROR cyclops error
+2017-01-30 19:44:27,528 WARNING _internal  * Debugger is active!
+2017-01-30 19:44:27,538 INFO _internal  * Debugger pin code: 296-103-283
+2017-01-30 19:44:32,634 DEBUG cyclops debug
+2017-01-30 19:44:32,634 INFO cyclops info
+2017-01-30 19:44:32,634 ERROR cyclops error
+2017-01-30 19:44:33,581 INFO _internal  * Detected change in '/Users/benji/Documents/development/code/cyclops/lib/cyclops.py', reloading
+2017-01-30 19:44:33,591 INFO _internal  * Restarting with stat
+2017-01-30 19:44:33,679 DEBUG cyclops debug
+2017-01-30 19:44:33,679 INFO cyclops info
+2017-01-30 19:44:33,679 ERROR cyclops error
+2017-01-30 19:44:33,683 WARNING _internal  * Debugger is active!
+2017-01-30 19:44:33,695 INFO _internal  * Debugger pin code: 296-103-283
+2017-01-30 19:44:34,710 INFO _internal  * Detected change in '/Users/benji/Documents/development/code/cyclops/lib/cyclops.py', reloading
+2017-01-30 19:44:34,721 INFO _internal  * Restarting with stat
+2017-01-30 19:44:34,814 DEBUG cyclops debug
+2017-01-30 19:44:34,814 INFO cyclops info
+2017-01-30 19:44:34,814 ERROR cyclops error
+2017-01-30 19:44:34,819 WARNING _internal  * Debugger is active!
+2017-01-30 19:44:34,830 INFO _internal  * Debugger pin code: 296-103-283
+2017-01-30 19:44:39,547 DEBUG cyclops debug
+2017-01-30 19:44:39,547 INFO cyclops info
+2017-01-30 19:44:39,547 ERROR cyclops error
+2017-01-30 19:44:39,866 INFO _internal  * Detected change in '/Users/benji/Documents/development/code/cyclops/lib/cyclops.py', reloading
+2017-01-30 19:44:39,876 INFO _internal  * Restarting with stat
+2017-01-30 19:44:39,963 DEBUG cyclops debug
+2017-01-30 19:44:39,963 INFO cyclops info
+2017-01-30 19:44:39,963 ERROR cyclops error
+2017-01-30 19:44:39,968 WARNING _internal  * Debugger is active!
+2017-01-30 19:44:39,977 INFO _internal  * Debugger pin code: 296-103-283
+2017-01-30 19:45:07,507 DEBUG cyclops debug
+2017-01-30 19:45:07,507 INFO cyclops info
+2017-01-30 19:45:07,507 ERROR cyclops error
+2017-01-30 19:45:08,131 INFO _internal  * Detected change in '/Users/benji/Documents/development/code/cyclops/lib/cyclops.py', reloading
+2017-01-30 19:45:08,144 INFO _internal  * Restarting with stat
+2017-01-30 19:45:08,236 DEBUG cyclops debug
+2017-01-30 19:45:08,236 INFO cyclops info
+2017-01-30 19:45:08,236 ERROR cyclops error
+2017-01-30 19:45:08,240 WARNING _internal  * Debugger is active!
+2017-01-30 19:45:08,251 INFO _internal  * Debugger pin code: 296-103-283
+2017-01-30 19:45:19,259 DEBUG cyclops debug
+2017-01-30 19:45:19,259 INFO cyclops info
+2017-01-30 19:45:19,259 ERROR cyclops error
+2017-01-30 19:45:19,318 INFO _internal  * Detected change in '/Users/benji/Documents/development/code/cyclops/lib/cyclops.py', reloading
+2017-01-30 19:45:19,328 INFO _internal  * Restarting with stat
+2017-01-30 19:45:19,419 DEBUG cyclops debug
+2017-01-30 19:45:19,419 INFO cyclops info
+2017-01-30 19:45:19,419 ERROR cyclops error
+2017-01-30 19:45:19,425 WARNING _internal  * Debugger is active!
+2017-01-30 19:45:19,435 INFO _internal  * Debugger pin code: 296-103-283
+2017-01-30 19:45:57,046 DEBUG cyclops debug
+2017-01-30 19:45:57,046 INFO cyclops info
+2017-01-30 19:45:57,046 ERROR cyclops error
+2017-01-30 19:45:57,616 INFO _internal  * Detected change in '/Users/benji/Documents/development/code/cyclops/lib/cyclops.py', reloading
+2017-01-30 19:45:57,627 INFO _internal  * Restarting with stat
+2017-01-30 19:45:57,715 DEBUG cyclops debug
+2017-01-30 19:45:57,715 INFO cyclops info
+2017-01-30 19:45:57,715 ERROR cyclops error
+2017-01-30 19:45:57,719 WARNING _internal  * Debugger is active!
+2017-01-30 19:45:57,728 INFO _internal  * Debugger pin code: 296-103-283
+2017-01-30 19:45:57,819 DEBUG cyclops debug
+2017-01-30 19:45:57,819 INFO cyclops info
+2017-01-30 19:45:57,819 ERROR cyclops error
+2017-01-30 19:45:58,744 INFO _internal  * Detected change in '/Users/benji/Documents/development/code/cyclops/lib/cyclops.py', reloading
+2017-01-30 19:45:58,754 INFO _internal  * Restarting with stat
+2017-01-30 19:45:58,843 DEBUG cyclops debug
+2017-01-30 19:45:58,843 INFO cyclops info
+2017-01-30 19:45:58,843 ERROR cyclops error
+2017-01-30 19:45:58,847 WARNING _internal  * Debugger is active!
+2017-01-30 19:45:58,857 INFO _internal  * Debugger pin code: 296-103-283
+2017-01-30 19:47:56,423 INFO _internal  * Detected change in '/Users/benji/Documents/development/code/cyclops/lib/cyclops.py', reloading
+2017-01-30 19:47:56,433 INFO _internal  * Restarting with stat
+2017-01-30 19:47:56,522 DEBUG cyclops debug
+2017-01-30 19:47:56,522 INFO cyclops info
+2017-01-30 19:47:56,522 ERROR cyclops error
+2017-01-30 19:47:56,527 WARNING _internal  * Debugger is active!
+2017-01-30 19:47:56,536 INFO _internal  * Debugger pin code: 296-103-283
+2017-01-30 19:53:06,015 INFO _internal  * Detected change in '/Users/benji/Documents/development/code/cyclops/lib/game.py', reloading
+2017-01-30 19:53:06,025 INFO _internal  * Restarting with stat
+2017-01-30 19:53:06,121 DEBUG cyclops debug
+2017-01-30 19:53:06,121 INFO cyclops info
+2017-01-30 19:53:06,121 ERROR cyclops error
+2017-01-30 19:53:06,126 WARNING _internal  * Debugger is active!
+2017-01-30 19:53:06,136 INFO _internal  * Debugger pin code: 296-103-283
+2017-01-30 19:53:09,162 INFO _internal  * Detected change in '/Users/benji/Documents/development/code/cyclops/lib/game.py', reloading
+2017-01-30 19:53:09,172 INFO _internal  * Restarting with stat
+2017-01-30 19:53:09,259 DEBUG cyclops debug
+2017-01-30 19:53:09,259 INFO cyclops info
+2017-01-30 19:53:09,259 ERROR cyclops error
+2017-01-30 19:53:09,264 WARNING _internal  * Debugger is active!
+2017-01-30 19:53:09,272 INFO _internal  * Debugger pin code: 296-103-283
+2017-01-30 19:54:28,655 INFO _internal  * Detected change in '/Users/benji/Documents/development/code/cyclops/lib/game.py', reloading
+2017-01-30 19:54:28,669 INFO _internal  * Restarting with stat
+2017-01-30 19:54:28,761 DEBUG cyclops debug
+2017-01-30 19:54:28,761 INFO cyclops info
+2017-01-30 19:54:28,762 ERROR cyclops error
+2017-01-30 19:54:28,766 WARNING _internal  * Debugger is active!
+2017-01-30 19:54:28,776 INFO _internal  * Debugger pin code: 296-103-283
+2017-01-30 19:54:39,506 DEBUG cyclops debug
+2017-01-30 19:54:39,506 INFO cyclops info
+2017-01-30 19:54:39,506 ERROR cyclops error
+2017-01-30 19:54:42,853 INFO _internal  * Detected change in '/Users/benji/Documents/development/code/cyclops/lib/cyclops.py', reloading
+2017-01-30 19:54:42,866 INFO _internal  * Restarting with stat
+2017-01-30 19:54:42,881 DEBUG cyclops debug
+2017-01-30 19:54:42,882 INFO cyclops info
+2017-01-30 19:54:42,882 ERROR cyclops error
+2017-01-30 19:54:42,966 DEBUG cyclops debug
+2017-01-30 19:54:42,967 INFO cyclops info
+2017-01-30 19:54:42,967 ERROR cyclops error
+2017-01-30 19:54:42,972 WARNING _internal  * Debugger is active!
+2017-01-30 19:54:42,982 INFO _internal  * Debugger pin code: 296-103-283
+2017-01-30 19:54:58,655 DEBUG cyclops debug
+2017-01-30 19:54:58,655 INFO cyclops info
+2017-01-30 19:54:58,655 ERROR cyclops error
+2017-01-30 19:54:59,069 INFO _internal  * Detected change in '/Users/benji/Documents/development/code/cyclops/lib/cyclops.py', reloading
+2017-01-30 19:54:59,079 INFO _internal  * Restarting with stat
+2017-01-30 19:54:59,165 DEBUG cyclops debug
+2017-01-30 19:54:59,165 INFO cyclops info
+2017-01-30 19:54:59,165 ERROR cyclops error
+2017-01-30 19:54:59,170 WARNING _internal  * Debugger is active!
+2017-01-30 19:54:59,180 INFO _internal  * Debugger pin code: 296-103-283
+2017-01-30 19:55:05,976 DEBUG cyclops debug
+2017-01-30 19:55:05,976 INFO cyclops info
+2017-01-30 19:55:05,976 ERROR cyclops error
+2017-01-30 19:55:06,217 INFO _internal  * Detected change in '/Users/benji/Documents/development/code/cyclops/lib/cyclops.py', reloading
+2017-01-30 19:55:06,227 INFO _internal  * Restarting with stat
+2017-01-30 19:55:06,319 DEBUG cyclops debug
+2017-01-30 19:55:06,319 INFO cyclops info
+2017-01-30 19:55:06,319 ERROR cyclops error
+2017-01-30 19:55:06,324 WARNING _internal  * Debugger is active!
+2017-01-30 19:55:06,335 INFO _internal  * Debugger pin code: 296-103-283
+2017-01-30 19:55:46,029 DEBUG cyclops debug
+2017-01-30 19:55:46,029 INFO cyclops info
+2017-01-30 19:55:46,029 ERROR cyclops error
+2017-01-30 19:55:46,527 INFO _internal  * Detected change in '/Users/benji/Documents/development/code/cyclops/lib/cyclops.py', reloading
+2017-01-30 19:55:46,538 INFO _internal  * Restarting with stat
+2017-01-30 19:55:46,630 DEBUG cyclops debug
+2017-01-30 19:55:46,631 INFO cyclops info
+2017-01-30 19:55:46,631 ERROR cyclops error
+2017-01-30 19:55:46,636 WARNING _internal  * Debugger is active!
+2017-01-30 19:55:46,646 INFO _internal  * Debugger pin code: 296-103-283
+2017-01-30 19:55:52,076 DEBUG cyclops debug
+2017-01-30 19:55:52,076 INFO cyclops info
+2017-01-30 19:55:52,076 ERROR cyclops error
+2017-01-30 19:55:52,681 INFO _internal  * Detected change in '/Users/benji/Documents/development/code/cyclops/lib/cyclops.py', reloading
+2017-01-30 19:55:52,691 INFO _internal  * Restarting with stat
+2017-01-30 19:55:52,784 DEBUG cyclops debug
+2017-01-30 19:55:52,784 INFO cyclops info
+2017-01-30 19:55:52,784 ERROR cyclops error
+2017-01-30 19:55:52,789 WARNING _internal  * Debugger is active!
+2017-01-30 19:55:52,799 INFO _internal  * Debugger pin code: 296-103-283
+2017-01-30 19:57:08,477 DEBUG cyclops debug
+2017-01-30 19:57:08,477 INFO cyclops info
+2017-01-30 19:57:08,477 ERROR cyclops error
+2017-01-30 19:57:09,174 INFO _internal  * Detected change in '/Users/benji/Documents/development/code/cyclops/lib/cyclops.py', reloading
+2017-01-30 19:57:09,184 INFO _internal  * Restarting with stat
+2017-01-30 19:57:09,272 DEBUG cyclops debug
+2017-01-30 19:57:09,272 INFO cyclops info
+2017-01-30 19:57:09,272 ERROR cyclops error
+2017-01-30 19:57:09,277 WARNING _internal  * Debugger is active!
+2017-01-30 19:57:09,286 INFO _internal  * Debugger pin code: 296-103-283
+2017-01-30 19:58:33,696 INFO _internal  * Detected change in '/Users/benji/Documents/development/code/cyclops/lib/cyclops.py', reloading
+2017-01-30 19:58:33,707 INFO _internal  * Restarting with stat
+2017-01-30 19:58:39,445 DEBUG cyclops debug
+2017-01-30 19:58:39,445 INFO cyclops info
+2017-01-30 19:58:39,445 ERROR cyclops error
+2017-01-30 19:58:44,981 DEBUG cyclops debug
+2017-01-30 19:58:44,981 INFO cyclops info
+2017-01-30 19:58:44,981 ERROR cyclops error
+2017-01-30 20:02:37,678 DEBUG cyclops debug
+2017-01-30 20:02:37,678 INFO cyclops info
+2017-01-30 20:02:37,678 ERROR cyclops error
+2017-01-30 20:03:39,375 DEBUG cyclops debug
+2017-01-30 20:03:39,375 INFO cyclops info
+2017-01-30 20:03:39,375 ERROR cyclops error
+2017-01-30 20:03:44,025 DEBUG cyclops debug
+2017-01-30 20:03:44,025 INFO cyclops info
+2017-01-30 20:03:44,025 ERROR cyclops error
+2017-01-30 20:04:05,011 DEBUG cyclops debug
+2017-01-30 20:04:05,012 INFO cyclops info
+2017-01-30 20:04:05,012 ERROR cyclops error
+2017-01-30 20:05:15,900 DEBUG cyclops debug
+2017-01-30 20:05:15,900 INFO cyclops info
+2017-01-30 20:05:15,900 ERROR cyclops error
+2017-01-30 20:05:36,227 DEBUG cyclops debug
+2017-01-30 20:05:36,227 INFO cyclops info
+2017-01-30 20:05:36,228 ERROR cyclops error
+2017-01-30 20:05:46,298 DEBUG cyclops debug
+2017-01-30 20:05:46,298 INFO cyclops info
+2017-01-30 20:05:46,298 ERROR cyclops error
+2017-01-30 20:06:09,219 DEBUG cyclops debug
+2017-01-30 20:06:09,219 INFO cyclops info
+2017-01-30 20:06:09,219 ERROR cyclops error
+2017-01-30 20:06:29,641 DEBUG cyclops debug
+2017-01-30 20:06:29,641 INFO cyclops info
+2017-01-30 20:06:29,641 ERROR cyclops error
+2017-01-30 20:06:29,646 INFO _internal  * Running on http://localhost:5000/ (Press CTRL+C to quit)
+2017-01-30 20:06:29,648 INFO _internal  * Restarting with stat
+2017-01-30 20:06:29,740 DEBUG cyclops debug
+2017-01-30 20:06:29,740 INFO cyclops info
+2017-01-30 20:06:29,740 ERROR cyclops error
+2017-01-30 20:06:29,745 WARNING _internal  * Debugger is active!
+2017-01-30 20:06:29,753 INFO _internal  * Debugger pin code: 296-103-283
+2017-01-30 20:29:13,613 INFO _internal 127.0.0.1 - - [30/Jan/2017 20:29:13] "GET / HTTP/1.1" 200 -
+2017-01-30 20:29:13,632 INFO _internal 127.0.0.1 - - [30/Jan/2017 20:29:13] "GET /js/utilities.js HTTP/1.1" 404 -
+2017-01-30 20:29:13,633 INFO _internal 127.0.0.1 - - [30/Jan/2017 20:29:13] "GET /js/card.js HTTP/1.1" 404 -
+2017-01-30 20:29:13,634 INFO _internal 127.0.0.1 - - [30/Jan/2017 20:29:13] "GET /js/hand.js HTTP/1.1" 404 -
+2017-01-30 20:29:13,636 INFO _internal 127.0.0.1 - - [30/Jan/2017 20:29:13] "GET /js/player.js HTTP/1.1" 404 -
+2017-01-30 20:29:13,637 INFO _internal 127.0.0.1 - - [30/Jan/2017 20:29:13] "GET /js/game.js HTTP/1.1" 404 -
+2017-01-30 20:29:14,059 INFO _internal 127.0.0.1 - - [30/Jan/2017 20:29:14] "GET /js/utilities.js HTTP/1.1" 404 -
+2017-01-30 20:29:14,067 INFO _internal 127.0.0.1 - - [30/Jan/2017 20:29:14] "GET /js/card.js HTTP/1.1" 404 -
+2017-01-30 20:29:14,068 INFO _internal 127.0.0.1 - - [30/Jan/2017 20:29:14] "GET /js/hand.js HTTP/1.1" 404 -
+2017-01-30 20:29:14,069 INFO _internal 127.0.0.1 - - [30/Jan/2017 20:29:14] "GET /js/player.js HTTP/1.1" 404 -
+2017-01-30 20:29:14,070 INFO _internal 127.0.0.1 - - [30/Jan/2017 20:29:14] "GET /js/game.js HTTP/1.1" 404 -
+2017-01-30 20:29:31,080 INFO _internal 127.0.0.1 - - [30/Jan/2017 20:29:31] "GET / HTTP/1.1" 200 -
+2017-01-30 20:29:31,092 INFO _internal 127.0.0.1 - - [30/Jan/2017 20:29:31] "GET /js/utilities.js HTTP/1.1" 404 -
+2017-01-30 20:29:31,093 INFO _internal 127.0.0.1 - - [30/Jan/2017 20:29:31] "GET /js/card.js HTTP/1.1" 404 -
+2017-01-30 20:29:31,094 INFO _internal 127.0.0.1 - - [30/Jan/2017 20:29:31] "GET /js/hand.js HTTP/1.1" 404 -
+2017-01-30 20:29:31,095 INFO _internal 127.0.0.1 - - [30/Jan/2017 20:29:31] "GET /js/player.js HTTP/1.1" 404 -
+2017-01-30 20:29:31,096 INFO _internal 127.0.0.1 - - [30/Jan/2017 20:29:31] "GET /js/game.js HTTP/1.1" 404 -
+2017-01-30 20:29:31,337 INFO _internal 127.0.0.1 - - [30/Jan/2017 20:29:31] "GET /js/utilities.js HTTP/1.1" 404 -
+2017-01-30 20:29:31,346 INFO _internal 127.0.0.1 - - [30/Jan/2017 20:29:31] "GET /js/card.js HTTP/1.1" 404 -
+2017-01-30 20:29:31,347 INFO _internal 127.0.0.1 - - [30/Jan/2017 20:29:31] "GET /js/hand.js HTTP/1.1" 404 -
+2017-01-30 20:29:31,348 INFO _internal 127.0.0.1 - - [30/Jan/2017 20:29:31] "GET /js/player.js HTTP/1.1" 404 -
+2017-01-30 20:29:31,350 INFO _internal 127.0.0.1 - - [30/Jan/2017 20:29:31] "GET /js/game.js HTTP/1.1" 404 -
+2017-01-30 20:29:31,506 INFO _internal  * Detected change in '/Users/benji/Documents/development/code/cyclops/app.py', reloading
+2017-01-30 20:29:31,517 INFO _internal  * Restarting with stat
+2017-01-30 20:29:31,602 DEBUG cyclops debug
+2017-01-30 20:29:31,602 INFO cyclops info
+2017-01-30 20:29:31,602 ERROR cyclops error
+2017-01-30 20:29:57,943 DEBUG cyclops debug
+2017-01-30 20:29:57,943 INFO cyclops info
+2017-01-30 20:29:57,943 ERROR cyclops error
+2017-01-30 20:30:15,012 DEBUG cyclops debug
+2017-01-30 20:30:15,013 INFO cyclops info
+2017-01-30 20:30:15,013 ERROR cyclops error
+2017-01-30 20:30:15,018 INFO _internal  * Running on http://localhost:5000/ (Press CTRL+C to quit)
+2017-01-30 20:30:15,019 INFO _internal  * Restarting with stat
+2017-01-30 20:30:15,105 DEBUG cyclops debug
+2017-01-30 20:30:15,105 INFO cyclops info
+2017-01-30 20:30:15,105 ERROR cyclops error
+2017-01-30 20:30:15,110 WARNING _internal  * Debugger is active!
+2017-01-30 20:30:15,119 INFO _internal  * Debugger pin code: 296-103-283
+2017-01-30 20:30:16,466 INFO _internal 127.0.0.1 - - [30/Jan/2017 20:30:16] "GET / HTTP/1.1" 200 -
+2017-01-30 20:30:16,478 INFO _internal 127.0.0.1 - - [30/Jan/2017 20:30:16] "GET /js/utilities.js HTTP/1.1" 200 -
+2017-01-30 20:30:16,479 INFO _internal 127.0.0.1 - - [30/Jan/2017 20:30:16] "GET /js/card.js HTTP/1.1" 200 -
+2017-01-30 20:30:16,480 INFO _internal 127.0.0.1 - - [30/Jan/2017 20:30:16] "GET /js/hand.js HTTP/1.1" 200 -
+2017-01-30 20:30:16,482 INFO _internal 127.0.0.1 - - [30/Jan/2017 20:30:16] "GET /js/player.js HTTP/1.1" 200 -
+2017-01-30 20:30:16,483 INFO _internal 127.0.0.1 - - [30/Jan/2017 20:30:16] "GET /js/game.js HTTP/1.1" 200 -
+2017-01-30 20:30:16,736 INFO _internal 127.0.0.1 - - [30/Jan/2017 20:30:16] "GET /js/card.js HTTP/1.1" 200 -
+2017-01-30 20:30:16,737 INFO _internal 127.0.0.1 - - [30/Jan/2017 20:30:16] "GET /js/hand.js HTTP/1.1" 200 -
+2017-01-30 20:30:16,738 INFO _internal 127.0.0.1 - - [30/Jan/2017 20:30:16] "GET /js/player.js HTTP/1.1" 200 -
+2017-01-30 20:30:16,740 INFO _internal 127.0.0.1 - - [30/Jan/2017 20:30:16] "GET /js/game.js HTTP/1.1" 200 -
+2017-01-30 20:31:34,155 INFO _internal 127.0.0.1 - - [30/Jan/2017 20:31:34] "GET / HTTP/1.1" 200 -
+2017-01-30 20:31:34,168 INFO _internal 127.0.0.1 - - [30/Jan/2017 20:31:34] "GET /js/utilities.js HTTP/1.1" 200 -
+2017-01-30 20:31:34,169 INFO _internal 127.0.0.1 - - [30/Jan/2017 20:31:34] "GET /js/card.js HTTP/1.1" 200 -
+2017-01-30 20:31:34,170 INFO _internal 127.0.0.1 - - [30/Jan/2017 20:31:34] "GET /js/hand.js HTTP/1.1" 200 -
+2017-01-30 20:31:34,172 INFO _internal 127.0.0.1 - - [30/Jan/2017 20:31:34] "GET /js/player.js HTTP/1.1" 200 -
+2017-01-30 20:31:34,173 INFO _internal 127.0.0.1 - - [30/Jan/2017 20:31:34] "GET /js/game.js HTTP/1.1" 200 -
+2017-01-30 20:31:34,475 INFO _internal 127.0.0.1 - - [30/Jan/2017 20:31:34] "GET /js/card.js HTTP/1.1" 200 -
+2017-01-30 20:31:34,476 INFO _internal 127.0.0.1 - - [30/Jan/2017 20:31:34] "GET /js/hand.js HTTP/1.1" 200 -
+2017-01-30 20:31:34,478 INFO _internal 127.0.0.1 - - [30/Jan/2017 20:31:34] "GET /js/player.js HTTP/1.1" 200 -
+2017-01-30 20:31:34,480 INFO _internal 127.0.0.1 - - [30/Jan/2017 20:31:34] "GET /js/game.js HTTP/1.1" 200 -
+2017-01-30 20:31:57,224 INFO _internal 127.0.0.1 - - [30/Jan/2017 20:31:57] "GET / HTTP/1.1" 200 -
+2017-01-30 20:31:57,233 INFO _internal 127.0.0.1 - - [30/Jan/2017 20:31:57] "GET /js/utilities.js HTTP/1.1" 200 -
+2017-01-30 20:31:57,234 INFO _internal 127.0.0.1 - - [30/Jan/2017 20:31:57] "GET /js/card.js HTTP/1.1" 200 -
+2017-01-30 20:31:57,236 INFO _internal 127.0.0.1 - - [30/Jan/2017 20:31:57] "GET /js/hand.js HTTP/1.1" 200 -
+2017-01-30 20:31:57,237 INFO _internal 127.0.0.1 - - [30/Jan/2017 20:31:57] "GET /js/player.js HTTP/1.1" 200 -
+2017-01-30 20:31:57,239 INFO _internal 127.0.0.1 - - [30/Jan/2017 20:31:57] "GET /js/game.js HTTP/1.1" 200 -
+2017-01-30 20:31:57,462 INFO _internal 127.0.0.1 - - [30/Jan/2017 20:31:57] "GET /js/card.js HTTP/1.1" 200 -
+2017-01-30 20:31:57,463 INFO _internal 127.0.0.1 - - [30/Jan/2017 20:31:57] "GET /js/hand.js HTTP/1.1" 200 -
+2017-01-30 20:31:57,464 INFO _internal 127.0.0.1 - - [30/Jan/2017 20:31:57] "GET /js/player.js HTTP/1.1" 200 -
+2017-01-30 20:31:57,465 INFO _internal 127.0.0.1 - - [30/Jan/2017 20:31:57] "GET /js/game.js HTTP/1.1" 200 -
+2017-01-30 20:32:03,008 INFO _internal 127.0.0.1 - - [30/Jan/2017 20:32:03] "GET / HTTP/1.1" 200 -
+2017-01-30 20:32:03,017 INFO _internal 127.0.0.1 - - [30/Jan/2017 20:32:03] "GET /js/utilities.js HTTP/1.1" 200 -
+2017-01-30 20:32:03,019 INFO _internal 127.0.0.1 - - [30/Jan/2017 20:32:03] "GET /js/card.js HTTP/1.1" 200 -
+2017-01-30 20:32:03,020 INFO _internal 127.0.0.1 - - [30/Jan/2017 20:32:03] "GET /js/hand.js HTTP/1.1" 200 -
+2017-01-30 20:32:03,021 INFO _internal 127.0.0.1 - - [30/Jan/2017 20:32:03] "GET /js/player.js HTTP/1.1" 200 -
+2017-01-30 20:32:03,023 INFO _internal 127.0.0.1 - - [30/Jan/2017 20:32:03] "GET /js/game.js HTTP/1.1" 200 -
+2017-01-30 20:32:03,263 INFO _internal 127.0.0.1 - - [30/Jan/2017 20:32:03] "GET /js/card.js HTTP/1.1" 200 -
+2017-01-30 20:32:03,265 INFO _internal 127.0.0.1 - - [30/Jan/2017 20:32:03] "GET /js/hand.js HTTP/1.1" 200 -
+2017-01-30 20:32:03,266 INFO _internal 127.0.0.1 - - [30/Jan/2017 20:32:03] "GET /js/player.js HTTP/1.1" 200 -
+2017-01-30 20:32:03,267 INFO _internal 127.0.0.1 - - [30/Jan/2017 20:32:03] "GET /js/game.js HTTP/1.1" 200 -
+2017-01-30 20:32:08,004 INFO _internal 127.0.0.1 - - [30/Jan/2017 20:32:08] "GET /?id=omepebTwCw HTTP/1.1" 200 -
+2017-01-30 20:32:21,673 INFO _internal 127.0.0.1 - - [30/Jan/2017 20:32:21] "GET /?id=0kpbzj95pm HTTP/1.1" 200 -
+2017-01-30 20:32:21,683 INFO _internal 127.0.0.1 - - [30/Jan/2017 20:32:21] "GET /js/utilities.js HTTP/1.1" 200 -
+2017-01-30 20:32:21,684 INFO _internal 127.0.0.1 - - [30/Jan/2017 20:32:21] "GET /js/card.js HTTP/1.1" 200 -
+2017-01-30 20:32:21,686 INFO _internal 127.0.0.1 - - [30/Jan/2017 20:32:21] "GET /js/hand.js HTTP/1.1" 200 -
+2017-01-30 20:32:21,688 INFO _internal 127.0.0.1 - - [30/Jan/2017 20:32:21] "GET /js/player.js HTTP/1.1" 200 -
+2017-01-30 20:32:21,691 INFO _internal 127.0.0.1 - - [30/Jan/2017 20:32:21] "GET /js/game.js HTTP/1.1" 200 -
+2017-01-30 20:32:21,918 INFO _internal 127.0.0.1 - - [30/Jan/2017 20:32:21] "GET /js/card.js HTTP/1.1" 200 -
+2017-01-30 20:32:21,919 INFO _internal 127.0.0.1 - - [30/Jan/2017 20:32:21] "GET /js/hand.js HTTP/1.1" 200 -
+2017-01-30 20:32:21,921 INFO _internal 127.0.0.1 - - [30/Jan/2017 20:32:21] "GET /js/player.js HTTP/1.1" 200 -
+2017-01-30 20:32:21,922 INFO _internal 127.0.0.1 - - [30/Jan/2017 20:32:21] "GET /js/game.js HTTP/1.1" 200 -
+2017-01-30 20:34:32,044 INFO _internal 127.0.0.1 - - [30/Jan/2017 20:34:32] "GET /?id=0kpbzj95pm HTTP/1.1" 200 -
+2017-01-30 20:34:32,055 INFO _internal 127.0.0.1 - - [30/Jan/2017 20:34:32] "GET /js/utilities.js HTTP/1.1" 200 -
+2017-01-30 20:34:32,056 INFO _internal 127.0.0.1 - - [30/Jan/2017 20:34:32] "GET /js/card.js HTTP/1.1" 200 -
+2017-01-30 20:34:32,058 INFO _internal 127.0.0.1 - - [30/Jan/2017 20:34:32] "GET /js/hand.js HTTP/1.1" 200 -
+2017-01-30 20:34:32,059 INFO _internal 127.0.0.1 - - [30/Jan/2017 20:34:32] "GET /js/player.js HTTP/1.1" 200 -
+2017-01-30 20:34:32,060 INFO _internal 127.0.0.1 - - [30/Jan/2017 20:34:32] "GET /js/game.js HTTP/1.1" 200 -
+2017-01-30 20:34:32,304 INFO _internal 127.0.0.1 - - [30/Jan/2017 20:34:32] "GET /js/card.js HTTP/1.1" 200 -
+2017-01-30 20:34:32,305 INFO _internal 127.0.0.1 - - [30/Jan/2017 20:34:32] "GET /js/hand.js HTTP/1.1" 200 -
+2017-01-30 20:34:32,306 INFO _internal 127.0.0.1 - - [30/Jan/2017 20:34:32] "GET /js/player.js HTTP/1.1" 200 -
+2017-01-30 20:34:32,307 INFO _internal 127.0.0.1 - - [30/Jan/2017 20:34:32] "GET /js/game.js HTTP/1.1" 200 -
+2017-01-30 20:35:47,653 INFO _internal 127.0.0.1 - - [30/Jan/2017 20:35:47] "GET /?id=0kpbzj95pm HTTP/1.1" 200 -
+2017-01-30 20:35:47,664 INFO _internal 127.0.0.1 - - [30/Jan/2017 20:35:47] "GET /js/utilities.js HTTP/1.1" 200 -
+2017-01-30 20:35:47,665 INFO _internal 127.0.0.1 - - [30/Jan/2017 20:35:47] "GET /js/card.js HTTP/1.1" 200 -
+2017-01-30 20:35:47,666 INFO _internal 127.0.0.1 - - [30/Jan/2017 20:35:47] "GET /js/hand.js HTTP/1.1" 200 -
+2017-01-30 20:35:47,667 INFO _internal 127.0.0.1 - - [30/Jan/2017 20:35:47] "GET /js/player.js HTTP/1.1" 200 -
+2017-01-30 20:35:47,669 INFO _internal 127.0.0.1 - - [30/Jan/2017 20:35:47] "GET /js/game.js HTTP/1.1" 200 -
+2017-01-30 20:35:48,096 INFO _internal 127.0.0.1 - - [30/Jan/2017 20:35:48] "GET /js/card.js HTTP/1.1" 200 -
+2017-01-30 20:35:48,097 INFO _internal 127.0.0.1 - - [30/Jan/2017 20:35:48] "GET /js/hand.js HTTP/1.1" 200 -
+2017-01-30 20:35:48,099 INFO _internal 127.0.0.1 - - [30/Jan/2017 20:35:48] "GET /js/player.js HTTP/1.1" 200 -
+2017-01-30 20:35:48,100 INFO _internal 127.0.0.1 - - [30/Jan/2017 20:35:48] "GET /js/game.js HTTP/1.1" 200 -
+2017-01-30 20:36:21,082 INFO _internal 127.0.0.1 - - [30/Jan/2017 20:36:21] "GET /?id=0kpbzj95pm HTTP/1.1" 200 -
+2017-01-30 20:36:21,092 INFO _internal 127.0.0.1 - - [30/Jan/2017 20:36:21] "GET /js/utilities.js HTTP/1.1" 200 -
+2017-01-30 20:36:21,093 INFO _internal 127.0.0.1 - - [30/Jan/2017 20:36:21] "GET /js/card.js HTTP/1.1" 200 -
+2017-01-30 20:36:21,095 INFO _internal 127.0.0.1 - - [30/Jan/2017 20:36:21] "GET /js/hand.js HTTP/1.1" 200 -
+2017-01-30 20:36:21,096 INFO _internal 127.0.0.1 - - [30/Jan/2017 20:36:21] "GET /js/player.js HTTP/1.1" 200 -
+2017-01-30 20:36:21,098 INFO _internal 127.0.0.1 - - [30/Jan/2017 20:36:21] "GET /js/game.js HTTP/1.1" 200 -
+2017-01-30 20:36:21,346 INFO _internal 127.0.0.1 - - [30/Jan/2017 20:36:21] "GET /js/card.js HTTP/1.1" 200 -
+2017-01-30 20:36:21,347 INFO _internal 127.0.0.1 - - [30/Jan/2017 20:36:21] "GET /js/hand.js HTTP/1.1" 200 -
+2017-01-30 20:36:21,348 INFO _internal 127.0.0.1 - - [30/Jan/2017 20:36:21] "GET /js/player.js HTTP/1.1" 200 -
+2017-01-30 20:36:21,349 INFO _internal 127.0.0.1 - - [30/Jan/2017 20:36:21] "GET /js/game.js HTTP/1.1" 200 -
+2017-01-30 20:38:03,268 INFO _internal  * Detected change in '/Users/benji/Documents/development/code/cyclops/app.py', reloading
+2017-01-30 20:38:03,282 INFO _internal  * Restarting with stat
+2017-01-30 20:40:12,549 DEBUG cyclops debug
+2017-01-30 20:40:12,549 INFO cyclops info
+2017-01-30 20:40:12,549 ERROR cyclops error
+2017-01-30 20:40:12,555 INFO _internal  * Running on http://localhost:5000/ (Press CTRL+C to quit)
+2017-01-30 20:40:12,556 INFO _internal  * Restarting with stat
+2017-01-30 20:40:12,647 DEBUG cyclops debug
+2017-01-30 20:40:12,647 INFO cyclops info
+2017-01-30 20:40:12,647 ERROR cyclops error
+2017-01-30 20:40:12,652 WARNING _internal  * Debugger is active!
+2017-01-30 20:40:12,661 INFO _internal  * Debugger pin code: 296-103-283
+2017-01-30 20:40:13,706 INFO _internal 127.0.0.1 - - [30/Jan/2017 20:40:13] "GET /api/games/0kpbzj95pm/ HTTP/1.1" 404 -
+2017-01-30 20:40:47,849 INFO _internal  * Detected change in '/Users/benji/Documents/development/code/cyclops/app.py', reloading
+2017-01-30 20:40:47,861 INFO _internal  * Restarting with stat
+2017-01-30 20:40:47,947 DEBUG cyclops debug
+2017-01-30 20:40:47,947 INFO cyclops info
+2017-01-30 20:40:47,947 ERROR cyclops error
+2017-01-30 20:40:47,953 WARNING _internal  * Debugger is active!
+2017-01-30 20:40:47,962 INFO _internal  * Debugger pin code: 296-103-283
+2017-01-30 20:40:50,474 INFO _internal 127.0.0.1 - - [30/Jan/2017 20:40:50] "GET /api/games/0kpbzj95pm/ HTTP/1.1" 404 -
+2017-01-30 20:40:51,130 INFO _internal 127.0.0.1 - - [30/Jan/2017 20:40:51] "GET /api/games/0kpbzj95pm/ HTTP/1.1" 404 -
+2017-01-30 20:40:55,761 INFO _internal 127.0.0.1 - - [30/Jan/2017 20:40:55] "GET /api/games/0kpbzj95pm/?token=asbd HTTP/1.1" 404 -
+2017-01-30 20:41:02,968 INFO _internal 127.0.0.1 - - [30/Jan/2017 20:41:02] "GET /api/games/0kpbzj95pm?token=asbd HTTP/1.1" 200 -
+2017-01-30 20:41:09,058 INFO _internal  * Detected change in '/Users/benji/Documents/development/code/cyclops/app.py', reloading
+2017-01-30 20:41:09,070 INFO _internal  * Restarting with stat
+2017-01-30 20:41:09,169 DEBUG cyclops debug
+2017-01-30 20:41:09,170 INFO cyclops info
+2017-01-30 20:41:09,170 ERROR cyclops error
+2017-01-30 20:41:09,176 WARNING _internal  * Debugger is active!
+2017-01-30 20:41:09,186 INFO _internal  * Debugger pin code: 296-103-283
+2017-01-30 20:41:09,825 INFO _internal 127.0.0.1 - - [30/Jan/2017 20:41:09] "GET /api/games/0kpbzj95pm?token=asbd HTTP/1.1" 500 -
+2017-01-30 20:41:09,839 INFO _internal 127.0.0.1 - - [30/Jan/2017 20:41:09] "GET /api/games/0kpbzj95pm?__debugger__=yes&cmd=resource&f=style.css HTTP/1.1" 200 -
+2017-01-30 20:41:09,840 INFO _internal 127.0.0.1 - - [30/Jan/2017 20:41:09] "GET /api/games/0kpbzj95pm?__debugger__=yes&cmd=resource&f=jquery.js HTTP/1.1" 200 -
+2017-01-30 20:41:09,842 INFO _internal 127.0.0.1 - - [30/Jan/2017 20:41:09] "GET /api/games/0kpbzj95pm?__debugger__=yes&cmd=resource&f=debugger.js HTTP/1.1" 200 -
+2017-01-30 20:41:09,940 INFO _internal 127.0.0.1 - - [30/Jan/2017 20:41:09] "GET /api/games/0kpbzj95pm?__debugger__=yes&cmd=resource&f=ubuntu.ttf HTTP/1.1" 200 -
+2017-01-30 20:41:09,991 INFO _internal 127.0.0.1 - - [30/Jan/2017 20:41:09] "GET /api/games/0kpbzj95pm?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1" 200 -
+2017-01-30 20:41:10,043 INFO _internal 127.0.0.1 - - [30/Jan/2017 20:41:10] "GET /api/games/0kpbzj95pm?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1" 200 -
+2017-01-30 20:41:16,985 INFO _internal 127.0.0.1 - - [30/Jan/2017 20:41:16] "GET /api/games/0kpbzj95pm?token=asbd HTTP/1.1" 500 -
+2017-01-30 20:41:16,994 INFO _internal 127.0.0.1 - - [30/Jan/2017 20:41:16] "GET /api/games/0kpbzj95pm?__debugger__=yes&cmd=resource&f=style.css HTTP/1.1" 200 -
+2017-01-30 20:41:16,995 INFO _internal 127.0.0.1 - - [30/Jan/2017 20:41:16] "GET /api/games/0kpbzj95pm?__debugger__=yes&cmd=resource&f=jquery.js HTTP/1.1" 200 -
+2017-01-30 20:41:16,996 INFO _internal 127.0.0.1 - - [30/Jan/2017 20:41:16] "GET /api/games/0kpbzj95pm?__debugger__=yes&cmd=resource&f=debugger.js HTTP/1.1" 200 -
+2017-01-30 20:41:17,085 INFO _internal 127.0.0.1 - - [30/Jan/2017 20:41:17] "GET /api/games/0kpbzj95pm?__debugger__=yes&cmd=resource&f=ubuntu.ttf HTTP/1.1" 200 -
+2017-01-30 20:41:17,115 INFO _internal 127.0.0.1 - - [30/Jan/2017 20:41:17] "GET /api/games/0kpbzj95pm?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1" 200 -
+2017-01-30 20:41:17,232 INFO _internal  * Detected change in '/Users/benji/Documents/development/code/cyclops/app.py', reloading
+2017-01-30 20:41:17,244 INFO _internal  * Restarting with stat
+2017-01-30 20:41:17,329 DEBUG cyclops debug
+2017-01-30 20:41:17,330 INFO cyclops info
+2017-01-30 20:41:17,330 ERROR cyclops error
+2017-01-30 20:41:17,335 WARNING _internal  * Debugger is active!
+2017-01-30 20:41:17,343 INFO _internal  * Debugger pin code: 296-103-283
+2017-01-30 20:41:19,358 INFO _internal 127.0.0.1 - - [30/Jan/2017 20:41:19] "GET /api/games/0kpbzj95pm?token=asbd HTTP/1.1" 200 -
+2017-01-30 20:41:29,127 INFO _internal 127.0.0.1 - - [30/Jan/2017 20:41:29] "GET /api/games/0kpbzj95pm?token=54206.abc123 HTTP/1.1" 200 -
+2017-01-30 20:43:54,954 INFO _internal 127.0.0.1 - - [30/Jan/2017 20:43:54] "GET /?id=0kpbzj95pm HTTP/1.1" 200 -
+2017-01-30 20:43:54,963 INFO _internal 127.0.0.1 - - [30/Jan/2017 20:43:54] "GET /js/utilities.js HTTP/1.1" 200 -
+2017-01-30 20:43:54,965 INFO _internal 127.0.0.1 - - [30/Jan/2017 20:43:54] "GET /js/card.js HTTP/1.1" 200 -
+2017-01-30 20:43:54,966 INFO _internal 127.0.0.1 - - [30/Jan/2017 20:43:54] "GET /js/hand.js HTTP/1.1" 200 -
+2017-01-30 20:43:54,968 INFO _internal 127.0.0.1 - - [30/Jan/2017 20:43:54] "GET /js/player.js HTTP/1.1" 200 -
+2017-01-30 20:43:54,970 INFO _internal 127.0.0.1 - - [30/Jan/2017 20:43:54] "GET /js/game.js HTTP/1.1" 200 -
+2017-01-30 20:43:55,307 INFO _internal 127.0.0.1 - - [30/Jan/2017 20:43:55] "GET /js/card.js HTTP/1.1" 200 -
+2017-01-30 20:43:55,308 INFO _internal 127.0.0.1 - - [30/Jan/2017 20:43:55] "GET /js/hand.js HTTP/1.1" 200 -
+2017-01-30 20:43:55,309 INFO _internal 127.0.0.1 - - [30/Jan/2017 20:43:55] "GET /js/player.js HTTP/1.1" 200 -
+2017-01-30 20:43:55,310 INFO _internal 127.0.0.1 - - [30/Jan/2017 20:43:55] "GET /js/game.js HTTP/1.1" 200 -
+2017-01-30 20:43:55,354 INFO _internal 127.0.0.1 - - [30/Jan/2017 20:43:55] "GET /api/games/undefined?token=54206.abc123 HTTP/1.1" 200 -
+2017-01-30 20:43:56,488 INFO _internal 127.0.0.1 - - [30/Jan/2017 20:43:56] "GET /?id=0kpbzj95pm HTTP/1.1" 200 -
+2017-01-30 20:43:56,499 INFO _internal 127.0.0.1 - - [30/Jan/2017 20:43:56] "GET /js/utilities.js HTTP/1.1" 200 -
+2017-01-30 20:43:56,501 INFO _internal 127.0.0.1 - - [30/Jan/2017 20:43:56] "GET /js/card.js HTTP/1.1" 200 -
+2017-01-30 20:43:56,502 INFO _internal 127.0.0.1 - - [30/Jan/2017 20:43:56] "GET /js/hand.js HTTP/1.1" 200 -
+2017-01-30 20:43:56,503 INFO _internal 127.0.0.1 - - [30/Jan/2017 20:43:56] "GET /js/player.js HTTP/1.1" 200 -
+2017-01-30 20:43:56,505 INFO _internal 127.0.0.1 - - [30/Jan/2017 20:43:56] "GET /js/game.js HTTP/1.1" 200 -
+2017-01-30 20:43:56,742 INFO _internal 127.0.0.1 - - [30/Jan/2017 20:43:56] "GET /js/card.js HTTP/1.1" 200 -
+2017-01-30 20:43:56,743 INFO _internal 127.0.0.1 - - [30/Jan/2017 20:43:56] "GET /js/hand.js HTTP/1.1" 200 -
+2017-01-30 20:43:56,744 INFO _internal 127.0.0.1 - - [30/Jan/2017 20:43:56] "GET /js/player.js HTTP/1.1" 200 -
+2017-01-30 20:43:56,746 INFO _internal 127.0.0.1 - - [30/Jan/2017 20:43:56] "GET /js/game.js HTTP/1.1" 200 -
+2017-01-30 20:43:56,785 INFO _internal 127.0.0.1 - - [30/Jan/2017 20:43:56] "GET /api/games/undefined?token=54206.abc123 HTTP/1.1" 200 -
+2017-01-30 20:44:31,622 INFO _internal 127.0.0.1 - - [30/Jan/2017 20:44:31] "GET /api/games/undefined?token=54206.abc123 HTTP/1.1" 200 -
+2017-01-30 20:44:59,358 INFO _internal  * Detected change in '/Users/benji/Documents/development/code/cyclops/app.py', reloading
+2017-01-30 20:44:59,369 INFO _internal  * Restarting with stat
+2017-01-30 20:44:59,456 DEBUG cyclops debug
+2017-01-30 20:44:59,456 INFO cyclops info
+2017-01-30 20:44:59,456 ERROR cyclops error
+2017-01-30 20:44:59,461 WARNING _internal  * Debugger is active!
+2017-01-30 20:44:59,469 INFO _internal  * Debugger pin code: 296-103-283
+2017-01-30 20:45:05,509 INFO _internal  * Detected change in '/Users/benji/Documents/development/code/cyclops/app.py', reloading
+2017-01-30 20:45:05,522 INFO _internal  * Restarting with stat
+2017-01-30 20:45:05,614 DEBUG cyclops debug
+2017-01-30 20:45:05,614 INFO cyclops info
+2017-01-30 20:45:05,614 ERROR cyclops error
+2017-01-30 20:45:05,620 WARNING _internal  * Debugger is active!
+2017-01-30 20:45:05,630 INFO _internal  * Debugger pin code: 296-103-283
+2017-01-30 20:45:06,348 INFO _internal 127.0.0.1 - - [30/Jan/2017 20:45:06] "GET /api/games/undefined?token=54206.abc123 HTTP/1.1" 200 -
+2017-01-30 20:45:16,693 INFO _internal  * Detected change in '/Users/benji/Documents/development/code/cyclops/app.py', reloading
+2017-01-30 20:45:16,706 INFO _internal  * Restarting with stat
+2017-01-30 20:45:16,803 DEBUG cyclops debug
+2017-01-30 20:45:16,803 INFO cyclops info
+2017-01-30 20:45:16,803 ERROR cyclops error
+2017-01-30 20:45:16,809 WARNING _internal  * Debugger is active!
+2017-01-30 20:45:16,819 INFO _internal  * Debugger pin code: 296-103-283
+2017-01-30 20:45:22,947 DEBUG cyclops debug
+2017-01-30 20:45:22,947 INFO cyclops info
+2017-01-30 20:45:22,947 ERROR cyclops error
+2017-01-30 20:45:23,860 INFO _internal  * Detected change in '/Users/benji/Documents/development/code/cyclops/lib/cyclops.py', reloading
+2017-01-30 20:45:23,870 INFO _internal  * Restarting with stat
+2017-01-30 20:45:23,967 DEBUG cyclops debug
+2017-01-30 20:45:23,967 INFO cyclops info
+2017-01-30 20:45:23,967 ERROR cyclops error
+2017-01-30 20:45:23,972 WARNING _internal  * Debugger is active!
+2017-01-30 20:45:23,983 INFO _internal  * Debugger pin code: 296-103-283
+2017-01-30 20:45:38,430 DEBUG cyclops debug
+2017-01-30 20:45:38,430 INFO cyclops info
+2017-01-30 20:45:38,430 ERROR cyclops error
+2017-01-30 20:45:39,067 INFO _internal  * Detected change in '/Users/benji/Documents/development/code/cyclops/lib/cyclops.py', reloading
+2017-01-30 20:45:39,081 INFO _internal  * Restarting with stat
+2017-01-30 20:45:39,181 DEBUG cyclops debug
+2017-01-30 20:45:39,181 INFO cyclops info
+2017-01-30 20:45:39,181 ERROR cyclops error
+2017-01-30 20:45:39,186 WARNING _internal  * Debugger is active!
+2017-01-30 20:45:39,196 INFO _internal  * Debugger pin code: 296-103-283
+2017-01-30 20:45:49,915 INFO _internal 127.0.0.1 - - [30/Jan/2017 20:45:49] "GET /api/games/undefined?token=54206.abc123 HTTP/1.1" 200 -
+2017-01-30 20:46:30,436 INFO _internal  * Detected change in '/Users/benji/Documents/development/code/cyclops/lib/game.py', reloading
+2017-01-30 20:46:30,447 INFO _internal  * Restarting with stat
+2017-01-30 20:46:30,542 DEBUG cyclops debug
+2017-01-30 20:46:30,542 INFO cyclops info
+2017-01-30 20:46:30,542 ERROR cyclops error
+2017-01-30 20:46:30,547 WARNING _internal  * Debugger is active!
+2017-01-30 20:46:30,557 INFO _internal  * Debugger pin code: 296-103-283
+2017-01-30 20:48:09,996 INFO _internal  * Detected change in '/Users/benji/Documents/development/code/cyclops/lib/game.py', reloading
+2017-01-30 20:48:10,006 INFO _internal  * Restarting with stat
+2017-01-30 20:48:10,095 DEBUG cyclops debug
+2017-01-30 20:48:10,095 INFO cyclops info
+2017-01-30 20:48:10,095 ERROR cyclops error
+2017-01-30 20:48:10,100 WARNING _internal  * Debugger is active!
+2017-01-30 20:48:10,109 INFO _internal  * Debugger pin code: 296-103-283
+2017-01-30 20:48:22,046 INFO _internal 127.0.0.1 - - [30/Jan/2017 20:48:22] "GET /?id=0kpbzj95pm HTTP/1.1" 200 -
+2017-01-30 20:48:22,058 INFO _internal 127.0.0.1 - - [30/Jan/2017 20:48:22] "GET /js/utilities.js HTTP/1.1" 200 -
+2017-01-30 20:48:22,060 INFO _internal 127.0.0.1 - - [30/Jan/2017 20:48:22] "GET /js/card.js HTTP/1.1" 200 -
+2017-01-30 20:48:22,061 INFO _internal 127.0.0.1 - - [30/Jan/2017 20:48:22] "GET /js/hand.js HTTP/1.1" 200 -
+2017-01-30 20:48:22,062 INFO _internal 127.0.0.1 - - [30/Jan/2017 20:48:22] "GET /js/player.js HTTP/1.1" 200 -
+2017-01-30 20:48:22,064 INFO _internal 127.0.0.1 - - [30/Jan/2017 20:48:22] "GET /js/game.js HTTP/1.1" 200 -
+2017-01-30 20:48:22,322 INFO _internal 127.0.0.1 - - [30/Jan/2017 20:48:22] "GET /js/card.js HTTP/1.1" 200 -
+2017-01-30 20:48:22,323 INFO _internal 127.0.0.1 - - [30/Jan/2017 20:48:22] "GET /js/hand.js HTTP/1.1" 200 -
+2017-01-30 20:48:22,325 INFO _internal 127.0.0.1 - - [30/Jan/2017 20:48:22] "GET /js/player.js HTTP/1.1" 200 -
+2017-01-30 20:48:22,326 INFO _internal 127.0.0.1 - - [30/Jan/2017 20:48:22] "GET /js/game.js HTTP/1.1" 200 -
+2017-01-30 20:48:22,375 INFO _internal 127.0.0.1 - - [30/Jan/2017 20:48:22] "GET /api/games/0kpbzj95pm?token=54206.abc123 HTTP/1.1" 500 -
+2017-01-30 20:48:39,466 INFO _internal 127.0.0.1 - - [30/Jan/2017 20:48:39] "GET /api/games/0kpbzj95pm?token=54206.abc123 HTTP/1.1" 500 -
+2017-01-30 20:48:39,475 INFO _internal 127.0.0.1 - - [30/Jan/2017 20:48:39] "GET /api/games/0kpbzj95pm?__debugger__=yes&cmd=resource&f=style.css HTTP/1.1" 200 -
+2017-01-30 20:48:39,476 INFO _internal 127.0.0.1 - - [30/Jan/2017 20:48:39] "GET /api/games/0kpbzj95pm?__debugger__=yes&cmd=resource&f=jquery.js HTTP/1.1" 200 -
+2017-01-30 20:48:39,553 INFO _internal 127.0.0.1 - - [30/Jan/2017 20:48:39] "GET /api/games/0kpbzj95pm?__debugger__=yes&cmd=resource&f=debugger.js HTTP/1.1" 200 -
+2017-01-30 20:48:39,585 INFO _internal 127.0.0.1 - - [30/Jan/2017 20:48:39] "GET /api/games/0kpbzj95pm?__debugger__=yes&cmd=resource&f=ubuntu.ttf HTTP/1.1" 200 -
+2017-01-30 20:48:39,641 INFO _internal 127.0.0.1 - - [30/Jan/2017 20:48:39] "GET /api/games/0kpbzj95pm?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1" 200 -
+2017-01-30 20:48:39,680 INFO _internal 127.0.0.1 - - [30/Jan/2017 20:48:39] "GET /api/games/0kpbzj95pm?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1" 200 -
+2017-01-30 20:48:59,337 INFO _internal  * Detected change in '/Users/benji/Documents/development/code/cyclops/lib/game.py', reloading
+2017-01-30 20:48:59,350 INFO _internal  * Restarting with stat
+2017-01-30 20:48:59,436 DEBUG cyclops debug
+2017-01-30 20:48:59,437 INFO cyclops info
+2017-01-30 20:48:59,437 ERROR cyclops error
+2017-01-30 20:48:59,442 WARNING _internal  * Debugger is active!
+2017-01-30 20:48:59,451 INFO _internal  * Debugger pin code: 296-103-283
+2017-01-30 20:49:49,677 INFO _internal  * Detected change in '/Users/benji/Documents/development/code/cyclops/lib/game.py', reloading
+2017-01-30 20:49:49,687 INFO _internal  * Restarting with stat
+2017-01-30 20:49:49,775 DEBUG cyclops debug
+2017-01-30 20:49:49,775 INFO cyclops info
+2017-01-30 20:49:49,775 ERROR cyclops error
+2017-01-30 20:49:49,780 WARNING _internal  * Debugger is active!
+2017-01-30 20:49:49,789 INFO _internal  * Debugger pin code: 296-103-283
+2017-01-30 20:49:51,540 INFO _internal 127.0.0.1 - - [30/Jan/2017 20:49:51] "GET /api/games/0kpbzj95pm?token=54206.abc123 HTTP/1.1" 200 -
+2017-01-30 20:49:55,860 INFO _internal 127.0.0.1 - - [30/Jan/2017 20:49:55] "GET /?id=0kpbzj95pm HTTP/1.1" 200 -
+2017-01-30 20:49:55,870 INFO _internal 127.0.0.1 - - [30/Jan/2017 20:49:55] "GET /js/utilities.js HTTP/1.1" 200 -
+2017-01-30 20:49:55,871 INFO _internal 127.0.0.1 - - [30/Jan/2017 20:49:55] "GET /js/card.js HTTP/1.1" 200 -
+2017-01-30 20:49:55,872 INFO _internal 127.0.0.1 - - [30/Jan/2017 20:49:55] "GET /js/hand.js HTTP/1.1" 200 -
+2017-01-30 20:49:55,874 INFO _internal 127.0.0.1 - - [30/Jan/2017 20:49:55] "GET /js/player.js HTTP/1.1" 200 -
+2017-01-30 20:49:55,875 INFO _internal 127.0.0.1 - - [30/Jan/2017 20:49:55] "GET /js/game.js HTTP/1.1" 200 -
+2017-01-30 20:49:56,132 INFO _internal 127.0.0.1 - - [30/Jan/2017 20:49:56] "GET /js/card.js HTTP/1.1" 200 -
+2017-01-30 20:49:56,134 INFO _internal 127.0.0.1 - - [30/Jan/2017 20:49:56] "GET /js/hand.js HTTP/1.1" 200 -
+2017-01-30 20:49:56,135 INFO _internal 127.0.0.1 - - [30/Jan/2017 20:49:56] "GET /js/player.js HTTP/1.1" 200 -
+2017-01-30 20:49:56,137 INFO _internal 127.0.0.1 - - [30/Jan/2017 20:49:56] "GET /js/game.js HTTP/1.1" 200 -
+2017-01-30 20:49:56,184 INFO _internal 127.0.0.1 - - [30/Jan/2017 20:49:56] "GET /api/games/0kpbzj95pm?token=54206.abc123 HTTP/1.1" 200 -
+2017-01-30 20:51:06,227 INFO _internal 127.0.0.1 - - [30/Jan/2017 20:51:06] "GET /?id=0kpbzj95pm HTTP/1.1" 200 -
+2017-01-30 20:51:06,238 INFO _internal 127.0.0.1 - - [30/Jan/2017 20:51:06] "GET /js/utilities.js HTTP/1.1" 200 -
+2017-01-30 20:51:06,239 INFO _internal 127.0.0.1 - - [30/Jan/2017 20:51:06] "GET /js/card.js HTTP/1.1" 200 -
+2017-01-30 20:51:06,240 INFO _internal 127.0.0.1 - - [30/Jan/2017 20:51:06] "GET /js/hand.js HTTP/1.1" 200 -
+2017-01-30 20:51:06,242 INFO _internal 127.0.0.1 - - [30/Jan/2017 20:51:06] "GET /js/player.js HTTP/1.1" 200 -
+2017-01-30 20:51:06,243 INFO _internal 127.0.0.1 - - [30/Jan/2017 20:51:06] "GET /js/game.js HTTP/1.1" 200 -
+2017-01-30 20:51:06,552 INFO _internal 127.0.0.1 - - [30/Jan/2017 20:51:06] "GET /js/card.js HTTP/1.1" 200 -
+2017-01-30 20:51:06,553 INFO _internal 127.0.0.1 - - [30/Jan/2017 20:51:06] "GET /js/hand.js HTTP/1.1" 200 -
+2017-01-30 20:51:06,554 INFO _internal 127.0.0.1 - - [30/Jan/2017 20:51:06] "GET /js/player.js HTTP/1.1" 200 -
+2017-01-30 20:51:06,555 INFO _internal 127.0.0.1 - - [30/Jan/2017 20:51:06] "GET /js/game.js HTTP/1.1" 200 -
+2017-01-30 20:51:06,597 INFO _internal 127.0.0.1 - - [30/Jan/2017 20:51:06] "GET /api/games/0kpbzj95pm?token=54206.abc123 HTTP/1.1" 200 -
+2017-01-30 20:51:07,653 INFO _internal 127.0.0.1 - - [30/Jan/2017 20:51:07] "GET /?id=0kpbzj95pm HTTP/1.1" 200 -
+2017-01-30 20:51:07,664 INFO _internal 127.0.0.1 - - [30/Jan/2017 20:51:07] "GET /js/utilities.js HTTP/1.1" 200 -
+2017-01-30 20:51:07,666 INFO _internal 127.0.0.1 - - [30/Jan/2017 20:51:07] "GET /js/card.js HTTP/1.1" 200 -
+2017-01-30 20:51:07,667 INFO _internal 127.0.0.1 - - [30/Jan/2017 20:51:07] "GET /js/hand.js HTTP/1.1" 200 -
+2017-01-30 20:51:07,668 INFO _internal 127.0.0.1 - - [30/Jan/2017 20:51:07] "GET /js/player.js HTTP/1.1" 200 -
+2017-01-30 20:51:07,670 INFO _internal 127.0.0.1 - - [30/Jan/2017 20:51:07] "GET /js/game.js HTTP/1.1" 200 -
+2017-01-30 20:51:07,931 INFO _internal 127.0.0.1 - - [30/Jan/2017 20:51:07] "GET /js/card.js HTTP/1.1" 200 -
+2017-01-30 20:51:07,933 INFO _internal 127.0.0.1 - - [30/Jan/2017 20:51:07] "GET /js/hand.js HTTP/1.1" 200 -
+2017-01-30 20:51:07,934 INFO _internal 127.0.0.1 - - [30/Jan/2017 20:51:07] "GET /js/player.js HTTP/1.1" 200 -
+2017-01-30 20:51:07,935 INFO _internal 127.0.0.1 - - [30/Jan/2017 20:51:07] "GET /js/game.js HTTP/1.1" 200 -
+2017-01-30 20:51:07,978 INFO _internal 127.0.0.1 - - [30/Jan/2017 20:51:07] "GET /api/games/0kpbzj95pm?token=54206.abc123 HTTP/1.1" 200 -
+2017-01-30 20:52:53,199 INFO _internal 127.0.0.1 - - [30/Jan/2017 20:52:53] "GET /?id=0kpbzj95pm HTTP/1.1" 200 -
+2017-01-30 20:52:53,211 INFO _internal 127.0.0.1 - - [30/Jan/2017 20:52:53] "GET /js/utilities.js HTTP/1.1" 200 -
+2017-01-30 20:52:53,212 INFO _internal 127.0.0.1 - - [30/Jan/2017 20:52:53] "GET /js/card.js HTTP/1.1" 200 -
+2017-01-30 20:52:53,214 INFO _internal 127.0.0.1 - - [30/Jan/2017 20:52:53] "GET /js/hand.js HTTP/1.1" 200 -
+2017-01-30 20:52:53,215 INFO _internal 127.0.0.1 - - [30/Jan/2017 20:52:53] "GET /js/player.js HTTP/1.1" 200 -
+2017-01-30 20:52:53,217 INFO _internal 127.0.0.1 - - [30/Jan/2017 20:52:53] "GET /js/game.js HTTP/1.1" 200 -
+2017-01-30 20:52:53,467 INFO _internal 127.0.0.1 - - [30/Jan/2017 20:52:53] "GET /js/card.js HTTP/1.1" 200 -
+2017-01-30 20:52:53,468 INFO _internal 127.0.0.1 - - [30/Jan/2017 20:52:53] "GET /js/hand.js HTTP/1.1" 200 -
+2017-01-30 20:52:53,469 INFO _internal 127.0.0.1 - - [30/Jan/2017 20:52:53] "GET /js/player.js HTTP/1.1" 200 -
+2017-01-30 20:52:53,471 INFO _internal 127.0.0.1 - - [30/Jan/2017 20:52:53] "GET /js/game.js HTTP/1.1" 200 -
+2017-01-30 20:53:46,020 INFO _internal 127.0.0.1 - - [30/Jan/2017 20:53:46] "GET /?id=0kpbzj95pm HTTP/1.1" 200 -
+2017-01-30 20:53:46,030 INFO _internal 127.0.0.1 - - [30/Jan/2017 20:53:46] "GET /js/utilities.js HTTP/1.1" 200 -
+2017-01-30 20:53:46,031 INFO _internal 127.0.0.1 - - [30/Jan/2017 20:53:46] "GET /js/card.js HTTP/1.1" 200 -
+2017-01-30 20:53:46,033 INFO _internal 127.0.0.1 - - [30/Jan/2017 20:53:46] "GET /js/hand.js HTTP/1.1" 200 -
+2017-01-30 20:53:46,034 INFO _internal 127.0.0.1 - - [30/Jan/2017 20:53:46] "GET /js/player.js HTTP/1.1" 200 -
+2017-01-30 20:53:46,035 INFO _internal 127.0.0.1 - - [30/Jan/2017 20:53:46] "GET /js/game.js HTTP/1.1" 200 -
+2017-01-30 20:53:46,323 INFO _internal 127.0.0.1 - - [30/Jan/2017 20:53:46] "GET /js/card.js HTTP/1.1" 200 -
+2017-01-30 20:53:46,324 INFO _internal 127.0.0.1 - - [30/Jan/2017 20:53:46] "GET /js/hand.js HTTP/1.1" 200 -
+2017-01-30 20:53:46,325 INFO _internal 127.0.0.1 - - [30/Jan/2017 20:53:46] "GET /js/player.js HTTP/1.1" 200 -
+2017-01-30 20:53:46,327 INFO _internal 127.0.0.1 - - [30/Jan/2017 20:53:46] "GET /js/game.js HTTP/1.1" 200 -
+2017-01-30 20:53:57,958 INFO _internal 127.0.0.1 - - [30/Jan/2017 20:53:57] "GET /?id=0kpbzj95pm HTTP/1.1" 200 -
+2017-01-30 20:53:57,969 INFO _internal 127.0.0.1 - - [30/Jan/2017 20:53:57] "GET /js/utilities.js HTTP/1.1" 200 -
+2017-01-30 20:53:57,971 INFO _internal 127.0.0.1 - - [30/Jan/2017 20:53:57] "GET /js/card.js HTTP/1.1" 200 -
+2017-01-30 20:53:57,972 INFO _internal 127.0.0.1 - - [30/Jan/2017 20:53:57] "GET /js/hand.js HTTP/1.1" 200 -
+2017-01-30 20:53:57,973 INFO _internal 127.0.0.1 - - [30/Jan/2017 20:53:57] "GET /js/player.js HTTP/1.1" 200 -
+2017-01-30 20:53:57,975 INFO _internal 127.0.0.1 - - [30/Jan/2017 20:53:57] "GET /js/game.js HTTP/1.1" 200 -
+2017-01-30 20:53:58,218 INFO _internal 127.0.0.1 - - [30/Jan/2017 20:53:58] "GET /js/card.js HTTP/1.1" 200 -
+2017-01-30 20:53:58,219 INFO _internal 127.0.0.1 - - [30/Jan/2017 20:53:58] "GET /js/hand.js HTTP/1.1" 200 -
+2017-01-30 20:53:58,222 INFO _internal 127.0.0.1 - - [30/Jan/2017 20:53:58] "GET /js/player.js HTTP/1.1" 200 -
+2017-01-30 20:53:58,223 INFO _internal 127.0.0.1 - - [30/Jan/2017 20:53:58] "GET /js/game.js HTTP/1.1" 200 -
+2017-01-30 20:54:45,483 INFO _internal 127.0.0.1 - - [30/Jan/2017 20:54:45] "GET /?id=0kpbzj95pm HTTP/1.1" 200 -
+2017-01-30 20:54:45,493 INFO _internal 127.0.0.1 - - [30/Jan/2017 20:54:45] "GET /js/utilities.js HTTP/1.1" 200 -
+2017-01-30 20:54:45,494 INFO _internal 127.0.0.1 - - [30/Jan/2017 20:54:45] "GET /js/card.js HTTP/1.1" 200 -
+2017-01-30 20:54:45,495 INFO _internal 127.0.0.1 - - [30/Jan/2017 20:54:45] "GET /js/hand.js HTTP/1.1" 200 -
+2017-01-30 20:54:45,497 INFO _internal 127.0.0.1 - - [30/Jan/2017 20:54:45] "GET /js/player.js HTTP/1.1" 200 -
+2017-01-30 20:54:45,498 INFO _internal 127.0.0.1 - - [30/Jan/2017 20:54:45] "GET /js/game.js HTTP/1.1" 200 -
+2017-01-30 20:54:45,892 INFO _internal 127.0.0.1 - - [30/Jan/2017 20:54:45] "GET /js/card.js HTTP/1.1" 200 -
+2017-01-30 20:54:45,893 INFO _internal 127.0.0.1 - - [30/Jan/2017 20:54:45] "GET /js/hand.js HTTP/1.1" 200 -
+2017-01-30 20:54:45,895 INFO _internal 127.0.0.1 - - [30/Jan/2017 20:54:45] "GET /js/player.js HTTP/1.1" 200 -
+2017-01-30 20:54:45,896 INFO _internal 127.0.0.1 - - [30/Jan/2017 20:54:45] "GET /js/game.js HTTP/1.1" 200 -
+2017-01-30 20:54:45,947 INFO _internal 127.0.0.1 - - [30/Jan/2017 20:54:45] "GET /api/games/0kpbzj95pm?token=54206.abc123 HTTP/1.1" 200 -
+2017-01-30 20:55:48,801 INFO _internal 127.0.0.1 - - [30/Jan/2017 20:55:48] "GET /?id=0kpbzj95pm HTTP/1.1" 200 -
+2017-01-30 20:55:48,815 INFO _internal 127.0.0.1 - - [30/Jan/2017 20:55:48] "GET /js/utilities.js HTTP/1.1" 200 -
+2017-01-30 20:55:48,817 INFO _internal 127.0.0.1 - - [30/Jan/2017 20:55:48] "GET /js/card.js HTTP/1.1" 200 -
+2017-01-30 20:55:48,818 INFO _internal 127.0.0.1 - - [30/Jan/2017 20:55:48] "GET /js/hand.js HTTP/1.1" 200 -
+2017-01-30 20:55:48,819 INFO _internal 127.0.0.1 - - [30/Jan/2017 20:55:48] "GET /js/player.js HTTP/1.1" 200 -
+2017-01-30 20:55:48,820 INFO _internal 127.0.0.1 - - [30/Jan/2017 20:55:48] "GET /js/game.js HTTP/1.1" 200 -
+2017-01-30 20:55:49,089 INFO _internal 127.0.0.1 - - [30/Jan/2017 20:55:49] "GET /js/card.js HTTP/1.1" 200 -
+2017-01-30 20:55:49,090 INFO _internal 127.0.0.1 - - [30/Jan/2017 20:55:49] "GET /js/hand.js HTTP/1.1" 200 -
+2017-01-30 20:55:49,091 INFO _internal 127.0.0.1 - - [30/Jan/2017 20:55:49] "GET /js/player.js HTTP/1.1" 200 -
+2017-01-30 20:55:49,093 INFO _internal 127.0.0.1 - - [30/Jan/2017 20:55:49] "GET /js/game.js HTTP/1.1" 200 -
+2017-01-30 20:55:49,148 INFO _internal 127.0.0.1 - - [30/Jan/2017 20:55:49] "GET /api/games/0kpbzj95pm?token=54206.abc123 HTTP/1.1" 200 -
+2017-01-30 20:57:27,734 INFO _internal 127.0.0.1 - - [30/Jan/2017 20:57:27] "GET /?id=0kpbzj95pm HTTP/1.1" 200 -
+2017-01-30 20:57:27,747 INFO _internal 127.0.0.1 - - [30/Jan/2017 20:57:27] "GET /css/cyclops.css HTTP/1.1" 200 -
+2017-01-30 20:57:27,748 INFO _internal 127.0.0.1 - - [30/Jan/2017 20:57:27] "GET /js/utilities.js HTTP/1.1" 200 -
+2017-01-30 20:57:27,750 INFO _internal 127.0.0.1 - - [30/Jan/2017 20:57:27] "GET /js/card.js HTTP/1.1" 200 -
+2017-01-30 20:57:27,751 INFO _internal 127.0.0.1 - - [30/Jan/2017 20:57:27] "GET /js/hand.js HTTP/1.1" 200 -
+2017-01-30 20:57:27,753 INFO _internal 127.0.0.1 - - [30/Jan/2017 20:57:27] "GET /js/player.js HTTP/1.1" 200 -
+2017-01-30 20:57:27,754 INFO _internal 127.0.0.1 - - [30/Jan/2017 20:57:27] "GET /js/game.js HTTP/1.1" 200 -
+2017-01-30 20:57:28,011 INFO _internal 127.0.0.1 - - [30/Jan/2017 20:57:28] "GET /js/card.js HTTP/1.1" 200 -
+2017-01-30 20:57:28,013 INFO _internal 127.0.0.1 - - [30/Jan/2017 20:57:28] "GET /js/hand.js HTTP/1.1" 200 -
+2017-01-30 20:57:28,014 INFO _internal 127.0.0.1 - - [30/Jan/2017 20:57:28] "GET /js/player.js HTTP/1.1" 200 -
+2017-01-30 20:57:28,016 INFO _internal 127.0.0.1 - - [30/Jan/2017 20:57:28] "GET /js/game.js HTTP/1.1" 200 -
+2017-01-30 20:57:28,073 INFO _internal 127.0.0.1 - - [30/Jan/2017 20:57:28] "GET /api/games/0kpbzj95pm?token=54206.abc123 HTTP/1.1" 200 -
+2017-01-30 21:05:26,805 INFO _internal 127.0.0.1 - - [30/Jan/2017 21:05:26] "GET /?id=0kpbzj95pm HTTP/1.1" 200 -
+2017-01-30 21:05:26,819 INFO _internal 127.0.0.1 - - [30/Jan/2017 21:05:26] "GET /css/cyclops.css HTTP/1.1" 200 -
+2017-01-30 21:05:26,820 INFO _internal 127.0.0.1 - - [30/Jan/2017 21:05:26] "GET /js/utilities.js HTTP/1.1" 200 -
+2017-01-30 21:05:26,821 INFO _internal 127.0.0.1 - - [30/Jan/2017 21:05:26] "GET /js/card.js HTTP/1.1" 200 -
+2017-01-30 21:05:26,822 INFO _internal 127.0.0.1 - - [30/Jan/2017 21:05:26] "GET /js/hand.js HTTP/1.1" 200 -
+2017-01-30 21:05:26,823 INFO _internal 127.0.0.1 - - [30/Jan/2017 21:05:26] "GET /js/player.js HTTP/1.1" 200 -
+2017-01-30 21:05:26,825 INFO _internal 127.0.0.1 - - [30/Jan/2017 21:05:26] "GET /js/game.js HTTP/1.1" 200 -
+2017-01-30 21:05:27,241 INFO _internal 127.0.0.1 - - [30/Jan/2017 21:05:27] "GET /js/card.js HTTP/1.1" 200 -
+2017-01-30 21:05:27,243 INFO _internal 127.0.0.1 - - [30/Jan/2017 21:05:27] "GET /js/hand.js HTTP/1.1" 200 -
+2017-01-30 21:05:27,244 INFO _internal 127.0.0.1 - - [30/Jan/2017 21:05:27] "GET /js/player.js HTTP/1.1" 200 -
+2017-01-30 21:05:27,245 INFO _internal 127.0.0.1 - - [30/Jan/2017 21:05:27] "GET /js/game.js HTTP/1.1" 200 -
+2017-01-30 21:05:27,299 INFO _internal 127.0.0.1 - - [30/Jan/2017 21:05:27] "GET /api/games/0kpbzj95pm?token=54206.abc123 HTTP/1.1" 200 -
+2017-01-30 21:05:52,297 INFO _internal 127.0.0.1 - - [30/Jan/2017 21:05:52] "GET /?id=0kpbzj95pm HTTP/1.1" 200 -
+2017-01-30 21:05:52,312 INFO _internal 127.0.0.1 - - [30/Jan/2017 21:05:52] "GET /css/cyclops.css HTTP/1.1" 200 -
+2017-01-30 21:05:52,314 INFO _internal 127.0.0.1 - - [30/Jan/2017 21:05:52] "GET /js/utilities.js HTTP/1.1" 200 -
+2017-01-30 21:05:52,315 INFO _internal 127.0.0.1 - - [30/Jan/2017 21:05:52] "GET /js/card.js HTTP/1.1" 200 -
+2017-01-30 21:05:52,317 INFO _internal 127.0.0.1 - - [30/Jan/2017 21:05:52] "GET /js/hand.js HTTP/1.1" 200 -
+2017-01-30 21:05:52,318 INFO _internal 127.0.0.1 - - [30/Jan/2017 21:05:52] "GET /js/player.js HTTP/1.1" 200 -
+2017-01-30 21:05:52,320 INFO _internal 127.0.0.1 - - [30/Jan/2017 21:05:52] "GET /js/game.js HTTP/1.1" 200 -
+2017-01-30 21:05:52,561 INFO _internal 127.0.0.1 - - [30/Jan/2017 21:05:52] "GET /js/card.js HTTP/1.1" 200 -
+2017-01-30 21:05:52,563 INFO _internal 127.0.0.1 - - [30/Jan/2017 21:05:52] "GET /js/hand.js HTTP/1.1" 200 -
+2017-01-30 21:05:52,565 INFO _internal 127.0.0.1 - - [30/Jan/2017 21:05:52] "GET /js/player.js HTTP/1.1" 200 -
+2017-01-30 21:05:52,566 INFO _internal 127.0.0.1 - - [30/Jan/2017 21:05:52] "GET /js/game.js HTTP/1.1" 200 -
+2017-01-30 21:05:52,612 INFO _internal 127.0.0.1 - - [30/Jan/2017 21:05:52] "GET /api/games/0kpbzj95pm?token=54206.abc123 HTTP/1.1" 200 -
+2017-01-30 21:08:04,521 DEBUG cyclops debug
+2017-01-30 21:08:04,521 INFO cyclops info
+2017-01-30 21:08:04,521 ERROR cyclops error
+2017-01-30 21:08:22,568 INFO _internal  * Detected change in '/Users/benji/Documents/development/code/cyclops/lib/cyclops.py', reloading
+2017-01-30 21:08:22,579 INFO _internal  * Restarting with stat
+2017-01-30 21:08:22,687 DEBUG cyclops debug
+2017-01-30 21:08:22,687 INFO cyclops info
+2017-01-30 21:08:22,688 ERROR cyclops error
+2017-01-30 21:08:22,693 WARNING _internal  * Debugger is active!
+2017-01-30 21:08:22,703 INFO _internal  * Debugger pin code: 296-103-283
+2017-01-30 21:08:44,806 INFO _internal  * Detected change in '/Users/benji/Documents/development/code/cyclops/lib/game.py', reloading
+2017-01-30 21:08:44,821 INFO _internal  * Restarting with stat
+2017-01-30 21:08:44,913 DEBUG cyclops debug
+2017-01-30 21:08:44,913 INFO cyclops info
+2017-01-30 21:08:44,913 ERROR cyclops error
+2017-01-30 21:08:44,918 WARNING _internal  * Debugger is active!
+2017-01-30 21:08:44,929 INFO _internal  * Debugger pin code: 296-103-283
+2017-01-30 21:08:48,933 DEBUG cyclops debug
+2017-01-30 21:08:48,933 INFO cyclops info
+2017-01-30 21:08:48,933 ERROR cyclops error
+2017-01-30 21:09:06,025 INFO _internal  * Detected change in '/Users/benji/Documents/development/code/cyclops/lib/cyclops.py', reloading
+2017-01-30 21:09:06,035 INFO _internal  * Restarting with stat
+2017-01-30 21:09:06,127 DEBUG cyclops debug
+2017-01-30 21:09:06,127 INFO cyclops info
+2017-01-30 21:09:06,127 ERROR cyclops error
+2017-01-30 21:09:06,132 WARNING _internal  * Debugger is active!
+2017-01-30 21:09:06,144 INFO _internal  * Debugger pin code: 296-103-283
+2017-01-30 21:09:19,213 INFO _internal  * Detected change in '/Users/benji/Documents/development/code/cyclops/lib/database.py', reloading
+2017-01-30 21:09:19,223 INFO _internal  * Restarting with stat
+2017-01-30 21:09:19,323 DEBUG cyclops debug
+2017-01-30 21:09:19,323 INFO cyclops info
+2017-01-30 21:09:19,323 ERROR cyclops error
+2017-01-30 21:09:19,330 WARNING _internal  * Debugger is active!
+2017-01-30 21:09:19,340 INFO _internal  * Debugger pin code: 296-103-283
+2017-01-30 21:09:22,191 INFO _internal 127.0.0.1 - - [30/Jan/2017 21:09:22] "GET /?id=0kpbzj95pm HTTP/1.1" 200 -
+2017-01-30 21:09:22,203 INFO _internal 127.0.0.1 - - [30/Jan/2017 21:09:22] "GET /css/cyclops.css HTTP/1.1" 200 -
+2017-01-30 21:09:22,205 INFO _internal 127.0.0.1 - - [30/Jan/2017 21:09:22] "GET /js/utilities.js HTTP/1.1" 200 -
+2017-01-30 21:09:22,206 INFO _internal 127.0.0.1 - - [30/Jan/2017 21:09:22] "GET /js/card.js HTTP/1.1" 200 -
+2017-01-30 21:09:22,207 INFO _internal 127.0.0.1 - - [30/Jan/2017 21:09:22] "GET /js/hand.js HTTP/1.1" 200 -
+2017-01-30 21:09:22,209 INFO _internal 127.0.0.1 - - [30/Jan/2017 21:09:22] "GET /js/player.js HTTP/1.1" 200 -
+2017-01-30 21:09:22,210 INFO _internal 127.0.0.1 - - [30/Jan/2017 21:09:22] "GET /js/game.js HTTP/1.1" 200 -
+2017-01-30 21:09:22,477 INFO _internal 127.0.0.1 - - [30/Jan/2017 21:09:22] "GET /js/card.js HTTP/1.1" 200 -
+2017-01-30 21:09:22,478 INFO _internal 127.0.0.1 - - [30/Jan/2017 21:09:22] "GET /js/hand.js HTTP/1.1" 200 -
+2017-01-30 21:09:22,479 INFO _internal 127.0.0.1 - - [30/Jan/2017 21:09:22] "GET /js/player.js HTTP/1.1" 200 -
+2017-01-30 21:09:22,480 INFO _internal 127.0.0.1 - - [30/Jan/2017 21:09:22] "GET /js/game.js HTTP/1.1" 200 -
+2017-01-30 21:09:22,531 INFO _internal 127.0.0.1 - - [30/Jan/2017 21:09:22] "GET /api/games/0kpbzj95pm?token=54206.abc123 HTTP/1.1" 200 -
+2017-01-30 21:10:01,898 INFO _internal 127.0.0.1 - - [30/Jan/2017 21:10:01] "GET /?id=0kpbzj95pm HTTP/1.1" 200 -
+2017-01-30 21:10:01,911 INFO _internal 127.0.0.1 - - [30/Jan/2017 21:10:01] "GET /css/cyclops.css HTTP/1.1" 200 -
+2017-01-30 21:10:01,912 INFO _internal 127.0.0.1 - - [30/Jan/2017 21:10:01] "GET /js/utilities.js HTTP/1.1" 200 -
+2017-01-30 21:10:01,913 INFO _internal 127.0.0.1 - - [30/Jan/2017 21:10:01] "GET /js/card.js HTTP/1.1" 200 -
+2017-01-30 21:10:01,915 INFO _internal 127.0.0.1 - - [30/Jan/2017 21:10:01] "GET /js/hand.js HTTP/1.1" 200 -
+2017-01-30 21:10:01,916 INFO _internal 127.0.0.1 - - [30/Jan/2017 21:10:01] "GET /js/player.js HTTP/1.1" 200 -
+2017-01-30 21:10:01,917 INFO _internal 127.0.0.1 - - [30/Jan/2017 21:10:01] "GET /js/game.js HTTP/1.1" 200 -
+2017-01-30 21:10:02,163 INFO _internal 127.0.0.1 - - [30/Jan/2017 21:10:02] "GET /js/card.js HTTP/1.1" 200 -
+2017-01-30 21:10:02,164 INFO _internal 127.0.0.1 - - [30/Jan/2017 21:10:02] "GET /js/hand.js HTTP/1.1" 200 -
+2017-01-30 21:10:02,166 INFO _internal 127.0.0.1 - - [30/Jan/2017 21:10:02] "GET /js/player.js HTTP/1.1" 200 -
+2017-01-30 21:10:02,167 INFO _internal 127.0.0.1 - - [30/Jan/2017 21:10:02] "GET /js/game.js HTTP/1.1" 200 -
+2017-01-30 21:10:02,223 INFO _internal 127.0.0.1 - - [30/Jan/2017 21:10:02] "GET /api/games/0kpbzj95pm?token=54206.abc123 HTTP/1.1" 200 -
+2017-01-30 21:10:28,255 INFO _internal 127.0.0.1 - - [30/Jan/2017 21:10:28] "GET /?id=0kpbzj95pm HTTP/1.1" 200 -
+2017-01-30 21:10:28,269 INFO _internal 127.0.0.1 - - [30/Jan/2017 21:10:28] "GET /css/cyclops.css HTTP/1.1" 200 -
+2017-01-30 21:10:28,271 INFO _internal 127.0.0.1 - - [30/Jan/2017 21:10:28] "GET /js/utilities.js HTTP/1.1" 200 -
+2017-01-30 21:10:28,273 INFO _internal 127.0.0.1 - - [30/Jan/2017 21:10:28] "GET /js/card.js HTTP/1.1" 200 -
+2017-01-30 21:10:28,274 INFO _internal 127.0.0.1 - - [30/Jan/2017 21:10:28] "GET /js/hand.js HTTP/1.1" 200 -
+2017-01-30 21:10:28,276 INFO _internal 127.0.0.1 - - [30/Jan/2017 21:10:28] "GET /js/player.js HTTP/1.1" 200 -
+2017-01-30 21:10:28,278 INFO _internal 127.0.0.1 - - [30/Jan/2017 21:10:28] "GET /js/game.js HTTP/1.1" 200 -
+2017-01-30 21:10:28,542 INFO _internal 127.0.0.1 - - [30/Jan/2017 21:10:28] "GET /js/card.js HTTP/1.1" 200 -
+2017-01-30 21:10:28,544 INFO _internal 127.0.0.1 - - [30/Jan/2017 21:10:28] "GET /js/hand.js HTTP/1.1" 200 -
+2017-01-30 21:10:28,545 INFO _internal 127.0.0.1 - - [30/Jan/2017 21:10:28] "GET /js/player.js HTTP/1.1" 200 -
+2017-01-30 21:10:28,546 INFO _internal 127.0.0.1 - - [30/Jan/2017 21:10:28] "GET /js/game.js HTTP/1.1" 200 -
+2017-01-30 21:10:28,596 INFO _internal 127.0.0.1 - - [30/Jan/2017 21:10:28] "GET /api/games/0kpbzj95pm?token=54206.abc123 HTTP/1.1" 200 -
+2017-01-30 21:10:37,978 INFO _internal 127.0.0.1 - - [30/Jan/2017 21:10:37] "GET /?id=0kpbzj95pm HTTP/1.1" 200 -
+2017-01-30 21:10:37,991 INFO _internal 127.0.0.1 - - [30/Jan/2017 21:10:37] "GET /css/cyclops.css HTTP/1.1" 200 -
+2017-01-30 21:10:37,992 INFO _internal 127.0.0.1 - - [30/Jan/2017 21:10:37] "GET /js/utilities.js HTTP/1.1" 200 -
+2017-01-30 21:10:37,993 INFO _internal 127.0.0.1 - - [30/Jan/2017 21:10:37] "GET /js/card.js HTTP/1.1" 200 -
+2017-01-30 21:10:37,994 INFO _internal 127.0.0.1 - - [30/Jan/2017 21:10:37] "GET /js/hand.js HTTP/1.1" 200 -
+2017-01-30 21:10:37,996 INFO _internal 127.0.0.1 - - [30/Jan/2017 21:10:37] "GET /js/player.js HTTP/1.1" 200 -
+2017-01-30 21:10:37,997 INFO _internal 127.0.0.1 - - [30/Jan/2017 21:10:37] "GET /js/game.js HTTP/1.1" 200 -
+2017-01-30 21:10:38,257 INFO _internal 127.0.0.1 - - [30/Jan/2017 21:10:38] "GET /js/card.js HTTP/1.1" 200 -
+2017-01-30 21:10:38,258 INFO _internal 127.0.0.1 - - [30/Jan/2017 21:10:38] "GET /js/hand.js HTTP/1.1" 200 -
+2017-01-30 21:10:38,260 INFO _internal 127.0.0.1 - - [30/Jan/2017 21:10:38] "GET /js/player.js HTTP/1.1" 200 -
+2017-01-30 21:10:38,261 INFO _internal 127.0.0.1 - - [30/Jan/2017 21:10:38] "GET /js/game.js HTTP/1.1" 200 -
+2017-01-30 21:10:38,312 INFO _internal 127.0.0.1 - - [30/Jan/2017 21:10:38] "GET /api/games/0kpbzj95pm?token=54206.abc123 HTTP/1.1" 200 -
+2017-01-30 21:11:20,173 INFO _internal 127.0.0.1 - - [30/Jan/2017 21:11:20] "GET /?id=0kpbzj95pm HTTP/1.1" 200 -
+2017-01-30 21:11:20,185 INFO _internal 127.0.0.1 - - [30/Jan/2017 21:11:20] "GET /css/cyclops.css HTTP/1.1" 200 -
+2017-01-30 21:11:20,186 INFO _internal 127.0.0.1 - - [30/Jan/2017 21:11:20] "GET /js/utilities.js HTTP/1.1" 200 -
+2017-01-30 21:11:20,188 INFO _internal 127.0.0.1 - - [30/Jan/2017 21:11:20] "GET /js/card.js HTTP/1.1" 200 -
+2017-01-30 21:11:20,189 INFO _internal 127.0.0.1 - - [30/Jan/2017 21:11:20] "GET /js/hand.js HTTP/1.1" 200 -
+2017-01-30 21:11:20,190 INFO _internal 127.0.0.1 - - [30/Jan/2017 21:11:20] "GET /js/player.js HTTP/1.1" 200 -
+2017-01-30 21:11:20,192 INFO _internal 127.0.0.1 - - [30/Jan/2017 21:11:20] "GET /js/game.js HTTP/1.1" 200 -
+2017-01-30 21:11:20,449 INFO _internal 127.0.0.1 - - [30/Jan/2017 21:11:20] "GET /js/card.js HTTP/1.1" 200 -
+2017-01-30 21:11:20,451 INFO _internal 127.0.0.1 - - [30/Jan/2017 21:11:20] "GET /js/hand.js HTTP/1.1" 200 -
+2017-01-30 21:11:20,452 INFO _internal 127.0.0.1 - - [30/Jan/2017 21:11:20] "GET /js/player.js HTTP/1.1" 200 -
+2017-01-30 21:11:20,453 INFO _internal 127.0.0.1 - - [30/Jan/2017 21:11:20] "GET /js/game.js HTTP/1.1" 200 -
+2017-01-30 21:11:20,503 INFO _internal 127.0.0.1 - - [30/Jan/2017 21:11:20] "GET /api/games/0kpbzj95pm?token=54206.abc123 HTTP/1.1" 200 -

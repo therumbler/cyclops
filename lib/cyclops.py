@@ -77,31 +77,62 @@ class Cyclops():
         self.db.save("users", data, identifier = data["identifier"])
         #print json.dumps(user_media, indent = 2)
 
-    def get_status(self, game_id, user_token):
+    def get_status(self, game_id, user_token = False):
         """returns the status from the perspective of a particular user
         """
-
+        if not user_token:
+            return {
+                "code": 403,
+                "description": "No token supplied"
+            }
         auth = Auth()
         token = auth.check_token(user_token)
         if not token:
             #no token exists
             return {
-                "error": "invalid user_token"
+                "code": 403,
+                "description": "invalid user_token"
             }
 
-        game = self.db.load("game", game_id)
+     
+        game = Game(game_id)
         
-        if not game:
+        game_status = game.get_status()# = self.db.load("games", game_id)
+        
+        if not game_status:
             return {
                 "error": "invalid game id"
             }
+        username = token["user"]["username"]
+        
+        try:
+            player = [p for p in game_status["game"]["players"] if p["username"] == username][0]
+        except IndexError, e:
+            return {
+                "code": 404,
+                "description":  "player %s is not in game %s" %(username, game_id)
+            }
 
-        user_identifier = token["identifier"]
+        return {
+            "code": 200,
+            "description": "success",
+            "game": {
+                "player" : player,
+                "current_player": game_status["current_player"],
+                "players_yet_to_play": game_status["players_yet_to_play"]
+                }
 
+        }
 def main():
     os.chdir("..")
     cyclops = Cyclops()
-    #cyclops.create_fake_user("anotherexcuse")
+    #cyclops.create_fake_user("bopperclark")
+   
+    game_id = "xv1t6jnmbp"
+    game_id = "undefined"
+    user_token = "54206.abc123"
+    response = cyclops.get_status(game_id = game_id, user_token = user_token)
 
+    print json.dumps(response, indent = 4, separators = (",", ": "))
 if __name__ == '__main__':
     main()

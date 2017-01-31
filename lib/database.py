@@ -39,8 +39,7 @@ class Database():
 
     def get_all_identifiers(self, data_type):
         path = "%s/%s" % (self.PATH, data_type)
-        print path
-        
+
         for path, directories, files in os.walk(path):
             return [f.replace(".json", "") for f in files]
 
