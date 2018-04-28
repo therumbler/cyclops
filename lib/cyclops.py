@@ -31,8 +31,8 @@ class Cyclops():
         try:
             with open(path) as f:
                 self.config = json.load(f)
-        except IOError, e:
-            print "Error: %s doesn't exist. Please copy config.json.template to %s and fill in the settings" % (path, path)
+        except IOError as e:
+            self.log("Error: %s doesn't exist. Please copy config.json.template to %s and fill in the settings" % (path, path))
             return False
         return True
         
@@ -55,9 +55,9 @@ class Cyclops():
 
     def create_fake_user(self, username):
         user_media = self.instagram.get_user_media(username)
-        print user_media.keys()
+        self.log.debug(user_media.keys())
         if len(user_media["items"]) == 0:
-            print "no items"
+            self.log.debug("no items")
             return False
 
         user = user_media["items"][0]["user"]
@@ -107,7 +107,7 @@ class Cyclops():
         
         try:
             player = [p for p in game_status["game"]["players"] if p["username"] == username][0]
-        except IndexError, e:
+        except IndexError as e:
             return {
                 "code": 404,
                 "description":  "player %s is not in game %s" %(username, game_id)
@@ -121,9 +121,10 @@ class Cyclops():
                 "current_player": game_status["current_player"],
                 "players_yet_to_play": game_status["players_yet_to_play"]
                 }
-
         }
+
 def main():
+    """let's test somethign out"""
     os.chdir("..")
     cyclops = Cyclops()
     #cyclops.create_fake_user("bopperclark")
@@ -131,8 +132,9 @@ def main():
     game_id = "xv1t6jnmbp"
     game_id = "undefined"
     user_token = "54206.abc123"
-    response = cyclops.get_status(game_id = game_id, user_token = user_token)
+    response = cyclops.get_status(game_id=game_id, user_token=user_token)
 
-    print json.dumps(response, indent = 4, separators = (",", ": "))
+    print (json.dumps(response, indent=2, separators= (",", ":")))
+
 if __name__ == '__main__':
     main()
